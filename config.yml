@@ -1,0 +1,105 @@
+baseURL:  
+languageCode: en-us
+title: Loknath's Space
+paginate: 5
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+
+minify:
+    disableXML: true
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+                - name: Categories
+                  url: categories/
+                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
+params:
+
+    # home-info mode
+    homeInfoParams:
+        Title: "Hi there \U0001F44B" 
+        Content: I'm Loknath Dhar, a Linux Enthusiast.<br>Talk to me about Infosec, Linux
+
+    socialIcons:
+        - name: LinkedIn
+          url: "https://www.linkedin.com/in/dhar01/" 
+        - name: GitHub
+          url: "https://github.com/dhar01"
+        - name: Telegram
+          url: "https://t.me/Dhar01"
+        - name: rss
+          url: "index.xml"
+
+    keywords: [Blog, Portfolio, Papermod]
+    author: Me
+
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    showtoc: true
+    
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+
+privacy:
+    vimeo:
+        disabled: false
+        simple: true
+
+    twitter:
+        disabled: false
+        enableDNT: true
+        simple: true
+
+    instagram:
+        disabled: false
+        simple: true
+
+    youtube:
+        disabled: false
+        privacyEnhanced: true
+
+services:
+    instagram:
+        disableInlineCSS: true
+    twitter:
+        disableInlineCSS: true
