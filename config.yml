@@ -2,7 +2,7 @@ baseURL:
 languageCode: en-us
 title: Loknath's Space
 paginate: 5
-theme: "PaperMod"
+theme: hugo-Papermod 
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -40,7 +40,22 @@ outputs:
         - JSON
 
 params:
+    env: production
+    description: "Just another blog"
+    keywords: [Blog, Portfolio, Papermod]
+    author: Me
 
+    DateFormat: "January 2, 2006"
+    defaultTheme: auto
+    disableThemeToggle: false
+
+    ShowReadingTime: true
+    ShowShareButtons: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    showToc: true
+    
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B" 
@@ -55,20 +70,6 @@ params:
           url: "https://t.me/Dhar01"
         - name: rss
           url: "index.xml"
-
-    keywords: [Blog, Portfolio, Papermod]
-    author: Me
-
-    DateFormat: "January 2, 2006"
-    defaultTheme: auto
-    disableThemeToggle: false
-
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    showtoc: true
     
 taxonomies:
     category: categories
