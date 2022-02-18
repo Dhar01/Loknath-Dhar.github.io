@@ -1,8 +1,10 @@
-baseURL:  
+baseURL: https://dhar01.github.io
 languageCode: en-us
 title: Loknath's Space
 paginate: 5
 theme: hugo-Papermod 
+
+defaultContentLanguage: en
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -13,6 +15,7 @@ enableEmoji: true
 
 minify:
     disableXML: true
+    minifyOutput: true
 
 languages:
     en:
