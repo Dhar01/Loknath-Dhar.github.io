@@ -58,9 +58,9 @@ params:
     tocopen: false
 
     # home-info mode
-    #    homeInfoParams:
-    #   Title: "Hi there \U0001F44B" 
-    #   Content: I'm Loknath Dhar, a Linux Enthusiast.<br>Talk to me about Infosec, Linux
+    homeInfoParams:
+        Title: "Hi there \U0001F44B"
+        Content: I'm Loknath Dhar, a Linux Enthusiast.<br>Talk to me about Infosec, Linux
 
     socialIcons:
         - name: LinkedIn
