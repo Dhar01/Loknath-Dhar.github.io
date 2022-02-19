@@ -9,19 +9,21 @@ draft: false
 
 ## Hello There
 
-Welcome to my blog, I am **Loknath Dhar**, a Linux Enthusiast.
+Welcome to my blog!
+
+I am **Loknath Dhar**, a Linux Enthusiast.
 
 Aspire to become Linux System Administrator and want to find a way into infosec.
 
 This blog is used to **share knowledge/ideas** of mine.
 
-> Music, Movies, Anime, Books, Football & **LINUX**
+> Music, Movies, Anime, Books, Football & **Linux**
 
 That's me.
 
-# Personal favorite/Things I preferred:
+## Personal favorite/Things I prefer:
 
-(*I'm not sure if this section is right or not but I think it's fun to include this*)
+(*I'm not sure if this section is right or not but I think it's fun so why not!*)
 
 - Coding: Python, C++
 - OS: [Pop!\_OS](https://pop.system76.com/)
