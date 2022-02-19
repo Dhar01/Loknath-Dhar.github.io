@@ -2,36 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Loknath&#39;s Space</title>
-    <link>/</link>
+    <link>https://dhar01.github.io/</link>
     <description>Recent content on Loknath&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Feb 2021 01:34:53 +0600</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 01:34:53 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dhar01.github.io/about/</link>
+      <pubDate>Sat, 19 Feb 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/about/</guid>
+      <description>Hello There Welcome to my blog, I am Loknath Dhar, a Linux Enthusiast.</description>
+    </item>
+    
     <item>
       <title>Setting up Codeblocks with Freeglut on Linux</title>
-      <link>/posts/codeblocks-with-freeglut-linux/</link>
+      <link>https://dhar01.github.io/posts/codeblocks-with-freeglut-linux/</link>
       <pubDate>Sat, 06 Feb 2021 01:34:53 +0600</pubDate>
       
-      <guid>/posts/codeblocks-with-freeglut-linux/</guid>
+      <guid>https://dhar01.github.io/posts/codeblocks-with-freeglut-linux/</guid>
       <description>In my Computer Graphics class, the teacher asked us to setup Codeblocks for the glut. She gave us a tutorial on how to setup Codeblocks on windows but didn&amp;rsquo;t provide any suggestion to set up on Linux. After some searching on google, I was able to setup Codeblocks with Freeglut (which is an alternative to Glut and available on Linux). This is a kind of writeup (or tutorial) on how I was able to setup Codeblocks with Freeglut.</description>
     </item>
     
     <item>
       <title>Web Fundamentals walk-through [TryHackMe]</title>
-      <link>/posts/web-fundamentals-walkthrough/</link>
+      <link>https://dhar01.github.io/posts/web-fundamentals-walkthrough/</link>
       <pubDate>Sat, 10 Oct 2020 01:34:53 +0600</pubDate>
       
-      <guid>/posts/web-fundamentals-walkthrough/</guid>
+      <guid>https://dhar01.github.io/posts/web-fundamentals-walkthrough/</guid>
       <description>Task 2 A DNS request is made. When browser knows the server&amp;rsquo;s IP address, it ask the server for the web page which is done with a HTTP GET request.
 GET is an example of a HTTP verb, which are the different types of request. The server responds to the GET request with the web page content. IF the web page is loading extra resources, like JavaScript, images, or CSS files, those will be retrieved in separate GET requests.</description>
     </item>
     
     <item>
       <title>Shodan.io Walk-through [Tryhackme]</title>
-      <link>/posts/shodan-walkthrough/</link>
+      <link>https://dhar01.github.io/posts/shodan-walkthrough/</link>
       <pubDate>Fri, 09 Oct 2020 01:34:53 +0600</pubDate>
       
-      <guid>/posts/shodan-walkthrough/</guid>
+      <guid>https://dhar01.github.io/posts/shodan-walkthrough/</guid>
       <description>Shodan.io is a search engine for the internet of things. There is a room about Shodan in Tryhackme and this walk-through is about that.
  Due to the nature of Shodan and its scanning services, the answer is changing all the time. So keep trying.
  Task 01 An autonomous system number (ASN) is a global identifier of a range of IP addresses. Basically, large companies like Google, Microsoft have their own ASN for all of the IP addresses they own.</description>
