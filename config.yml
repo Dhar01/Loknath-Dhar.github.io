@@ -1,5 +1,5 @@
-baseURL: "https://dhar01.github.io"
-title: "Loknath's Space"
+baseURL: https://dhar01.github.io
+title: Loknath's Space
 paginate: 5
 theme: PaperMod
 
@@ -18,16 +18,22 @@ minify:
 
 menu:
     main:
-        - name: Home
-          url: /
+        - identifier: search
+          name: Search
+          url: /search/
           weight: 1
-      #- name: Blog
-        #url: posts
-        #weight: 2
-        - name: Archives
+        - identifier: archives
+          name: Archives
           url: /archives/
-        - name: About
+          weight: 2
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 3
+        - identifier: about
+          name: About
           url: /about/
+          weight: 4
 
 outputs:
     home:
@@ -37,6 +43,7 @@ outputs:
 
 params:
     env: production
+    title: Loknath's Space
     description: Share / Summary / Record 
     keywords: [Blog, Portfolio]
     author: Me
@@ -47,7 +54,8 @@ params:
     displayFullLangName: true
 
     ShowReadingTime: true
-    ShowBreadCrumbs: true
+    ShowBreadCrumbs: false 
+    ShowPostNavLinks: false
     ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
