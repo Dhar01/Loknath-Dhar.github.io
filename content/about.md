@@ -19,6 +19,19 @@ This blog is used to **share knowledge/ideas** of mine.
 
 That's me.
 
+# Personal favorite/Things I preferred:
+
+(*I'm not sure if this section is right or not but I think it's fun to include this*)
+
+- Coding: Python, C++
+- OS: [Pop!\_OS](https://pop.system76.com/)
+- Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
+- Text Editor: [Neovim](https://neovim.io/)
+- Bengali Font: [Atma](https://fonts.google.com/specimen/Atma)
+- Video Software: [mpv](https://mpv.io/)
+- Football Club: Liverpool
+- Anime: Attack on Titan
+
 # About Blog
 
 - Static website generator: [Hugo](https://dhar01.github.io/)
