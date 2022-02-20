@@ -1,8 +1,6 @@
 Just another personal blog..
 
-
-[Lokanth's Space](https://dhar01.github.io/]
-
+[Loknath's Space](https://dhar01.github.io/)
 
 
 # About Blog
