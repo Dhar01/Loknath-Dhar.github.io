@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>testing on Loknath&#39;s Space</title>
+    <link>https://dhar01.github.io/tags/testing/</link>
+    <description>Recent content in testing on Loknath&#39;s Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manual Testing Interview Questions</title>
+      <link>https://dhar01.github.io/posts/manual-testing-interview-questions/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/manual-testing-interview-questions/</guid>
+      <description>(As a fresher who is looking for opportunities to grow, I am currently learning Manual testing &amp;amp; mehtodologies. This post consists of a small collection of interview questions for SQA. You, who find this resource, I hope it&amp;rsquo;ll be beneficial for you)
+Things to do:
+ Adding proper figures for explantion. Adding more questions.  About SDLC What is Software Development Life Cycle?
+Ans: SDLC (Software Development Life Cycle) is the overall process of developing information system through a multi-step process from investigation of initial requirements through analysis, design, coding, testing, implementation and maintenance.</description>
+    </item>
+    
+  </channel>
+</rss>

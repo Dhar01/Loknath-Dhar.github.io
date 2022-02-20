@@ -5,7 +5,19 @@
     <link>https://dhar01.github.io/posts/</link>
     <description>Recent content in Posts on Loknath&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 06 Feb 2021 01:34:53 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manual Testing Interview Questions</title>
+      <link>https://dhar01.github.io/posts/manual-testing-interview-questions/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/manual-testing-interview-questions/</guid>
+      <description>(As a fresher who is looking for opportunities to grow, I am currently learning Manual testing &amp;amp; mehtodologies. This post consists of a small collection of interview questions for SQA. You, who find this resource, I hope it&amp;rsquo;ll be beneficial for you)
+Things to do:
+ Adding proper figures for explantion. Adding more questions.  About SDLC What is Software Development Life Cycle?
+Ans: SDLC (Software Development Life Cycle) is the overall process of developing information system through a multi-step process from investigation of initial requirements through analysis, design, coding, testing, implementation and maintenance.</description>
+    </item>
+    
     <item>
       <title>Setting up Codeblocks with Freeglut on Linux</title>
       <link>https://dhar01.github.io/posts/codeblocks-with-freeglut-linux/</link>
