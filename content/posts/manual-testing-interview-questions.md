@@ -43,7 +43,7 @@ Things to do:
 
 <span style="color: red;">What is Rapid Application Development (*RAD*) Model?</span>
 
-**RAD** model is a type of incremental model. In RAD model the components or functions are developed in parallel as if they were mini projects.
+<ins>Ans.:</ins> **RAD** model is a type of incremental model. In RAD model the components or functions are developed in parallel as if they were mini projects.
 
 The phases in RAD model are:
 - **Business modeling**: The information flow is identified between various business functions.
@@ -54,7 +54,7 @@ The phases in RAD model are:
 
 <span style="color: red;">What is V - model?</span>
 
-**V-model** is also called as *verification* and *validation* model.
+<ins>Ans.:</ins> **V-model** is also called as *verification* and *validation* model.
 
 In V model, project development and testing should go parallel. Verification phase should be carried out from SDLC where validation phase should be carried out from STLC.
 
@@ -62,36 +62,33 @@ In V model, project development and testing should go parallel. Verification pha
 
 <span style="color: red;">What is Unit testing?</span>
 
-This is first level of testing. It involves checking that each feature specified in the *Component Design* has been implemented in the component.
+<ins>Ans.:</ins> This is first level of testing. It involves checking that each feature specified in the *Component Design* has been implemented in the component.
 
 Developers do it, as they are the people who understand how a component works.
 
 <span style="color: red;">What is Integration Testing?</span>
 
-Tested components are linked together to check if they work with each other. 
+<ins>Ans.:</ins> Tested components are linked together to check if they work with each other. 
 
 The tests are organized to check all the interfaces, until all the components have been built and interfaced to each other producing the whole system.
 
 <span style="color: red;">What is System Testing?</span>
 
-Once the entire system has been built, it is tested against system specification.
+<ins>Ans.:</ins> Once the entire system has been built, it is tested against system specification.
 
 System testing is not about checking the individual parts of the design, but about checking the system as a whole.
 
 <span style="color: red;">What is Acceptance Testing?</span>
 
-- Checks that the system delivers what was requested.
-- **Acceptance Testing** is a level of the software testing where a system is tested for acceptability.
+<ins>Ans.:</ins> **Acceptance Testing** is a level of the software testing where a system is tested for acceptability. It checks that the system delivers what was requested.
 
 <span style="color: red;">What is Verification?</span>
 
-- **Verification** is the process of confirming that software meets its specification.
-- It involves reviews and meetings to evaluate documents, plans, code, requirements and specifications.
+<ins>Ans.:</ins> **Verification** is the process of confirming that software meets its specification. It involves reviews and meetings to evaluate documents, plans, code, requirements and specifications.
 
 <span style="color: red;">What is Validation?</span>
 
-- **Validation** is the process of confirming that software meets the user's requirements.
-- Validation typically involves actual testing and takes place after verification are completed.
+<ins>Ans.:</ins> **Validation** is the process of confirming that software meets the user's requirements. Validation typically involves actual testing and takes place after verification are completed.
 
 <span style="color: red;">What is Test Scenario?</span>
 
@@ -107,28 +104,28 @@ It includes plans for testing product, number of team members, environmental con
 
 <span style="color: red;">What is Test Strategy?</span>
 
-Test strategy documents -
+<ins>Ans.:</ins> **Test strategy** documents -
 - describes the roles, responsibilities and the resources required for the test and schedule.
 - tells us how the software product will be tested.
 - helps to review the test plan with the project team members executing tests.
 
 <span style="color: red;">What is Test Plan?</span>
 
-**Test plan** is a document that describes the scope, approach, resources and schedules of internal testing activities.
+<ins>Ans.:</ins> **Test plan** is a document that describes the scope, approach, resources and schedules of internal testing activities.
 
 <span style="color: red;">What is Requirement Test Matrix?</span>
 
-<ins>Ans.:</ins>**Requirement Test Matrix** is a project management tool for tracking tool for tracking and managing testing efforts based on requirements throughout the project life cycle.
+<ins>Ans.:</ins> **Requirement Test Matrix** is a project management tool for tracking tool for tracking and managing testing efforts based on requirements throughout the project life cycle.
 
 <span style="color: red;">What is Test Case?</span>
 
-<ins>Ans:</ins>Test case is a documents which contains set of test inputs, execution conditions, and expected output.
+<ins>Ans:</ins> **Test case** is a documents which contains set of test inputs, execution conditions, and expected output.
 
 # About STLC
 
 <span style="color: red;">What is STLC?</span>
 
-<ins>Ans:</ins>**Software Testing Life Cycle** (*STLC*) is the testing process, in which different activities are carried out to improve the quality of the product.
+<ins>Ans:</ins> **Software Testing Life Cycle** (*STLC*) is the testing process, in which different activities are carried out to improve the quality of the product.
 
 Steps in STLC are:
 - Requirement Analysis
@@ -140,6 +137,6 @@ Steps in STLC are:
 
 <span style="color: red;">What is Bug Life Cycle?</span>
 
-<ins>Ans.:</ins>**Bug life cycle** (*also known as **Defect Life Cycle***) is the journey of a defect cycle, which a defect goes through during its lifetime.
+<ins>Ans.:</ins> **Bug life cycle** (*also known as **Defect Life Cycle***) is the journey of a defect cycle, which a defect goes through during its lifetime.
 
 It starts when defect is found and ends when a defect is closed, after ensuring it's not reproduced.
