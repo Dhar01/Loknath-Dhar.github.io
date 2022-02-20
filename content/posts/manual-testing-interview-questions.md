@@ -16,7 +16,7 @@ Things to do:
 
 <span style="color: red;">What is Software Development Life Cycle?</span>
 
-<ins>Ans:</ins> **SDLC** (*Software Development Life Cycle*) is the overall process of developing information system through a multi-step process from investigation of initial requirements through analysis, design, coding, testing, implementation and maintenance.
+<ins>Ans.:</ins> **SDLC** (*Software Development Life Cycle*) is the overall process of developing information system through a multi-step process from investigation of initial requirements through analysis, design, coding, testing, implementation and maintenance.
 
 <span style="color: red;">What are the various models of SDLC?</span>
 
