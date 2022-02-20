@@ -31,8 +31,6 @@ Things to do:
 
 <ins>Ans:</ins> The **Waterfall model** is a sequential process in which progress is seen as flowing downwards (*like a waterfall*) through the phases of analysis, design, coding, testing, support and maintenance.
 
-![dfa4dcc282a9e906f26ecec627c7cf2a.png](:/1a3571aaefce49f6a8a66f2cc4bb0db1)
-
 <span style="color: red;">What is spiral model?</span>
 
 <ins>Ans:</ins> In **Spiral Model**, activities are organized into many cycle. Each cycle begins with the
@@ -54,15 +52,11 @@ The phases in RAD model are:
 - **Application generation**: Automated tools are used to convert process models into code and the actual system.
 - **Testing and turnover**: Test new components and all the interfaces.
 
-![640a3302babcfdbe393e0272ea591252.png](:/3f0a03fe7a57482d87177061c7613369)
-
 <span style="color: red;">What is V - model?</span>
 
 **V-model** is also called as *verification* and *validation* model.
 
 In V model, project development and testing should go parallel. Verification phase should be carried out from SDLC where validation phase should be carried out from STLC.
-
-![f9e9fcb32afe4ebbc30d4cbc5fe714f4.png](:/a3fbbdb2bb584045aff7dc1d6ebefcf3)
 
 # About different types of testing 
 
@@ -143,8 +137,6 @@ Steps in STLC are:
 - Environment Setup
 - Test Execution
 - Test Cycle Closure
-
-![e2050bf1529ba3cce5b2b4b6e1ade781.png](:/959aca8662504a7b8ccf7fd236213f1e)
 
 <span style="color: red;">What is Bug Life Cycle?</span>
 
