@@ -95,12 +95,12 @@ System testing is not about checking the individual parts of the design, but abo
 
 <span style="color: red;">What is Test Scenario?</span>
 
-- **Test Scenario** is prepared before the actual testing starts.
-- It includes plans for testing product, number of team members, environmental condition, making test cases, making test plans and all the features that are to be tested for the product.
+<ins>Ans:</ins>**Test Scenario** is prepared before the actual testing starts.
+It includes plans for testing product, number of team members, environmental condition, making test cases, making test plans and all the features that are to be tested for the product.
 
 <span style="color: red;">What is Test Methodology?</span>
 
-Test methodology is a three step process
+<ins>Ans:</ins>Test methodology is a three step process
 - creating a test strategy
 - creating a test plan
 - executing tests
@@ -118,17 +118,17 @@ Test strategy documents -
 
 <span style="color: red;">What is Requirement Test Matrix?</span>
 
-**Requirement Test Matrix** is a project management tool for tracking tool for tracking and managing testing efforts based on requirements throughout the project life cycle.
+<ins>Ans.:</ins>**Requirement Test Matrix** is a project management tool for tracking tool for tracking and managing testing efforts based on requirements throughout the project life cycle.
 
 <span style="color: red;">What is Test Case?</span>
 
-Test case is a documents which contains set of test inputs, execution conditions, and expected output.
+<ins>Ans:</ins>Test case is a documents which contains set of test inputs, execution conditions, and expected output.
 
 # About STLC
 
 <span style="color: red;">What is STLC?</span>
 
-**Software Testing Life Cycle** (*STLC*) is the testing process, in which different activities are carried out to improve the quality of the product.
+<ins>Ans:</ins>**Software Testing Life Cycle** (*STLC*) is the testing process, in which different activities are carried out to improve the quality of the product.
 
 Steps in STLC are:
 - Requirement Analysis
@@ -140,6 +140,6 @@ Steps in STLC are:
 
 <span style="color: red;">What is Bug Life Cycle?</span>
 
-**Bug life cycle** also known as *Defect Life Cycle* is the journey of a defect cycle, which a defect goes through during its lifetime.
+<ins>Ans.:</ins>**Bug life cycle** (*also known as **Defect Life Cycle***) is the journey of a defect cycle, which a defect goes through during its lifetime.
 
 It starts when defect is found and ends when a defect is closed, after ensuring it's not reproduced.
