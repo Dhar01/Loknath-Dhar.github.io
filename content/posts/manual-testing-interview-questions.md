@@ -2,7 +2,7 @@
 title: "Manual Testing Interview Questions"
 date: 2022-02-20
 tags: ["testing"]
-draft: false
+draft: true
 author: "Collected from the internet"
 ---
 
