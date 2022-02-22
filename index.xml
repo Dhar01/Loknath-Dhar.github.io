@@ -5,7 +5,20 @@
     <link>https://dhar01.github.io/</link>
     <description>Recent content on Loknath&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 06 Feb 2021 01:34:53 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SQL Overview</title>
+      <link>https://dhar01.github.io/posts/sql-overview-basic/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/sql-overview-basic/</guid>
+      <description>This is a note type post for personal reference. I am learning SQL right now and for the learning purpose, I chose two websites:
+ SQL Course; SQLBolt;  For the awesome learning experience, my advice to follow according to your preference.
+Also, if anyone wants to practice SQL, see Hackerrank&amp;rsquo;s SQL problem-set.
+ This is still in the early stage. Any suggestions will be appreciated.
+  A relational database system contains one or more objects called tables.</description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://dhar01.github.io/about/</link>
