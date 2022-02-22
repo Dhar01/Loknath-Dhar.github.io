@@ -10,7 +10,7 @@ This is a *note* type post for personal reference.  I am learning SQL right now 
 1. [SQL Course](https://www.sqlcourse.com/);
 2. [SQLBolt](https://sqlbolt.com/);
 
-For the awesome learning experience, my advice to follow according to your preference.
+For awesome learning experience, my advice is to follow one of them according to your preference. This post is just a summary of those content.
 
 Also, if anyone wants to practice SQL, see [Hackerrank's SQL problem-set](https://www.hackerrank.com/domains/sql).
 
