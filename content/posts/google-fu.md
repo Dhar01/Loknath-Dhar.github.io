@@ -1,9 +1,9 @@
 ---
 title: "Google Dorking (finding information) - OSINT"
-date: 2022-02-26
+date: 2022-02-25
 tags: ["osint"]
 draft: false
-author: "Me"
+author: Me
 ---
 
 > Everyone should learn how to search.
