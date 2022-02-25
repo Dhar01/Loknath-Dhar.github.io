@@ -27,7 +27,7 @@ The **SELECT** statement is used to query the database and retrieve selected dat
 > All statements end with an `;`.
 
 ```SQL
-SELECT column FROM table_name WHERE condition;
+SELECT column FROM table_name;
 ```
 
 > Use `*` to select all columns.
@@ -119,7 +119,7 @@ INSERT INTO employees (name, position, age, salary)
 The **UPDATE** statement is used to update or change records that match specified criteria.
 
 ```SQL
-update table_name
+UPDATE table_name
     SET column_name = new_value, next_column = new_value2
     WHERE column_name
     OPERATOR value and|or column OPERATOR value;
