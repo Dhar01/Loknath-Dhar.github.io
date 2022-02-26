@@ -5,9 +5,22 @@
     <link>https://dhar01.github.io/tags/sql/</link>
     <description>Recent content in SQL on Loknath&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>SQL Overview</title>
+      <title>SQL Overview - 02</title>
+      <link>https://dhar01.github.io/posts/sql-overview-select/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/sql-overview-select/</guid>
+      <description>The SELECT statement is used to query the database and retrieve data that match the criteria.
+The SELECT statement has five main clauses to choose from.
+Format of the SELECT statement:
+SELECT [ALL | DISTINCT] column1[,column2] FROM [table1, table2] [WHERE &amp;#34;conditions&amp;#34;] [GROUP BY &amp;#34;column-list&amp;#34;] [HAVING &amp;#34;conditions] [ORDER BY &amp;#34;column-list&amp;#34; [ASC | DESC] ] Example:
+SELECT name, age, salary FROM employee WHERE age &amp;gt; 40; ALL and DISTINCT are keywords used to select either all (default) or the distinct or unique records in query results.</description>
+    </item>
+    
+    <item>
+      <title>SQL Overview - 01</title>
       <link>https://dhar01.github.io/posts/sql-overview-basic/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       
