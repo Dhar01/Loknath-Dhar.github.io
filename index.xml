@@ -5,7 +5,17 @@
     <link>https://dhar01.github.io/</link>
     <description>Recent content on Loknath&#39;s Space</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making custom badges using shields.io</title>
+      <link>https://dhar01.github.io/posts/custom-badges-github-profile/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/custom-badges-github-profile/</guid>
+      <description>When I wanted to customize my GitHub profile, I visited many developers&amp;rsquo; GitHub profiles and used to see some badges which seems cool to me. When I looked at the code behind the profiles, I didn&amp;rsquo;t have the slightest idea what was going on. Later, I tried to copy some of the code and paste them into my code, but it couldn&amp;rsquo;t solve the need.
+Well, after some reading and searching, I was able to understand how to make them.</description>
+    </item>
+    
     <item>
       <title>Google Dorking (finding information) - OSINT</title>
       <link>https://dhar01.github.io/posts/google-fu/</link>
