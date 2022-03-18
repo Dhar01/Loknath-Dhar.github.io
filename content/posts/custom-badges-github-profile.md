@@ -1,6 +1,6 @@
 ---
 title: "Making custom badges using shields.io"
-date: 2022-03-19
+date: 2022-03-18
 tags: ["others"]
 draft: false
 author: Me
