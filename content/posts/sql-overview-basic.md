@@ -17,6 +17,9 @@ Also, if anyone wants to practice SQL, see [Hackerrank's SQL problem-set](https:
 > This is still in the early stage. Any suggestions will be appreciated.
 
 - - -
+(update 31 Mar, 2022): I got an awesome website: check [Animate SQL](https://animatesql.com/)!
+
+- - -
 
 A **relational database** system contains one or more objects called **tables**. Tables are identified by their names and are comprised of *columns* and *rows*.
 
