@@ -54,12 +54,13 @@ params:
     displayFullLangName: true
 
     ShowReadingTime: true
+    ShowShareButtons: true
     ShowBreadCrumbs: false 
     ShowPostNavLinks: false
     ShowCodeCopyButtons: true
     disableSpecial1stPost: false
     disableScrollToTop: false
-    comments: false
+    comments: true 
     hidemeta: false
     hideSummary: false
     showtoc: true
@@ -68,8 +69,10 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: I'm Loknath Dhar, a Linux Enthusiast.<br>Talk to me about Infosec, Linux
-
+        Content: >
+          I'm **Loknath Dhar**, a Linux Enthusiast. 🖥️
+          - Talk to me about Linux, DevOps & Infosec.
+          
     socialIcons:
         - name: LinkedIn
           url: "https://www.linkedin.com/in/dhar01/" 

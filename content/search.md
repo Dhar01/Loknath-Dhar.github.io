@@ -1,5 +1,6 @@
 ---
-title: Search
-layout: search
+title: "Search"
+layout: "search"
+summary: "search"
 ---
 searchHidden: true
