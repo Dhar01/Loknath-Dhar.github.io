@@ -71,6 +71,7 @@ params:
         Title: "Hi there \U0001F44B"
         Content: >
           I'm **Loknath Dhar**, a Linux Enthusiast. 🖥️
+
           - Talk to me about Linux, DevOps & Infosec.
           
     socialIcons:
@@ -80,6 +81,8 @@ params:
           url: "https://github.com/dhar01"
         - name: Telegram
           url: "https://t.me/Dhar01"
+        - name: email
+          url: "mailto:loknathdhar66@gmail.com"
         - name: rss
           url: "index.xml"
 
