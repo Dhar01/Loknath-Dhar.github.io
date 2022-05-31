@@ -232,7 +232,7 @@ $ git rebase -i HEAD~3
 $ git merge --squash {branch-name}  # (and commit afterwards)
 ```
 
-# # Git Stash
+# Git Stash
 
 ```bash
 # save into stash
@@ -286,8 +286,6 @@ $ git reflog
 $ git reset --hard {ssh-link}
 ```
 
-
-
 # Git Compare
 
 ```bash
@@ -337,7 +335,7 @@ No need to give password every time.
 
 # Git Settings with GitHub
 
-Silly, but this section is for myself. :P
+Silly, but this section is for myself. 🤐
 
 ```bash
 $ ssh-keygen -t rsa -b 4096 -C "githubMail"
