@@ -11,13 +11,9 @@ draft: false
 
 > All of the content here is for command line, as I am very comfortable with terminal [*and of course Linux*].
 
-
-
 Basic git syntax: `program | action | destination`.
 
 *For example*: `git | add | .`
-
-
 
 # Configure git
 
@@ -215,7 +211,7 @@ $ git merge --no-ff {branch-name}
 
 # to stop merge (in case of conflicts)
 $ git merge --abort
-$ git reset --merge		# prior to v1.7.4
+$ git reset --merge        # prior to v1.7.4
 
 # to undo local merge
 $ git reset  --hard {branch-name}
@@ -241,11 +237,15 @@ $ git merge --squash {branch-name}  # (and commit afterwards)
 ```bash
 # save into stash
 $ git stash save "message"
+$ git stash
 
 # show list of the stash
 $ git stash list
 
-# show stash status
+# view all stash
+$ git stash show
+
+# show status of a specific stash
 $ git stash show {stash-ID}
 
 # show changes on stash
@@ -254,7 +254,7 @@ $ git stash show -p {stash-ID}
 # to bring all stash
 $ git stash pop
 
-# to bring specific stash
+# bring/get back to specific stash
 $ git stash pop {stash-ID}
 
 # to use specific stash without dropping
@@ -275,6 +275,18 @@ $ git stash drop {stash-ID}
 # to delete the whole stash
 $ git stash clear
 ```
+
+# Reflog
+
+> I have nothing to say about this section. Ultimate weapon
+
+```bash
+$ git reflog
+
+$ git reset --hard {ssh-link}
+```
+
+
 
 # Git Compare
 
@@ -305,7 +317,7 @@ $ git remote -v
 $ git push origin master/main
 
 # clone repo
-$ git clone <ssh-link>
+$ git clone {ssh-link}
 
 # update the repo
 $ git fetch origin master
