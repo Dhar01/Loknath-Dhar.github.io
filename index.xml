@@ -14,8 +14,10 @@
       <guid>https://dhar01.github.io/posts/all_about_git/</guid>
       <description>SCM : Source Control Management.
 VCS: Version Control System.
- All of the content here is for command line, as I am very comfortable with terminal [and of course Linux].
- Configure git # set your name $ git config user.name &amp;#34;user-name&amp;#34;  # set your email $ git config user.email &amp;#34;user-email@example.com&amp;#34; Basic # to check git version $ git --version  # initializing git repository $ git init  # check status of the git repo $ git status  # Add all files at once $ git add .</description>
+All of the content here is for command line, as I am very comfortable with terminal [and of course Linux].
+Basic git syntax: program | action | destination.
+For example: git | add | .
+Configure git # set your name $ git config user.name &amp;#34;user-name&amp;#34; # set your email $ git config user.email &amp;#34;user-email@example.com&amp;#34; # set global user name $ git config --global user.</description>
     </item>
     
     <item>
@@ -35,11 +37,11 @@ Well, after some reading and searching, I was able to understand how to make the
       
       <guid>https://dhar01.github.io/posts/google-fu/</guid>
       <description>Everyone should learn how to search.
- (This post contains some google dorking techniques for finding information on the internet. Google is your friend.)
- Searching Narrow down search query, use &amp;quot;_something_&amp;quot;.
+(This post contains some google dorking techniques for finding information on the internet. Google is your friend.)
+Searching Narrow down search query, use &amp;quot;_something_&amp;quot;.
 Ex: &amp;quot;Liverpool&amp;quot;
 For exact topic and site:
-site: website-name topic-name site: geekforgeeks sql Some terms    Term Action     filetype: search for a file by its extension   cache: view google&amp;rsquo;s cached version of a specified URL   intitle: the specified phrase MUST appear in the title of the page   allintext: searches specific text contained on any web page   allintitle: show pages that contain titles with X characters   allinurl: used to fetch results whose URL contains all the specified characters   inurl: useful for single keyword, same as allinurl   intitle: used to search for various keywords inside the title   inanchor: useful when need to search for an exact anchor text used on any links.</description>
+site: website-name topic-name site: geekforgeeks sql Some terms Term Action filetype: search for a file by its extension cache: view google&amp;rsquo;s cached version of a specified URL intitle: the specified phrase MUST appear in the title of the page allintext: searches specific text contained on any web page allintitle: show pages that contain titles with X characters allinurl: used to fetch results whose URL contains all the specified characters inurl: useful for single keyword, same as allinurl intitle: used to search for various keywords inside the title inanchor: useful when need to search for an exact anchor text used on any links.</description>
     </item>
     
     <item>
@@ -62,9 +64,9 @@ SELECT name, age, salary FROM employee WHERE age &amp;gt; 40; ALL and DISTINCT a
       
       <guid>https://dhar01.github.io/posts/sql-overview-basic/</guid>
       <description>This is a note type post for personal reference. I am learning SQL right now and for the learning purpose, I chose two websites:
- SQL Course; SQLBolt;  For awesome learning experience, my advice is to follow one of them according to your preference. This post is just a summary of those content.
+SQL Course; SQLBolt; For awesome learning experience, my advice is to follow one of them according to your preference. This post is just a summary of those content.
 Also, if anyone wants to practice SQL, see Hackerrank&amp;rsquo;s SQL problem-set.
- This is still in the early stage.</description>
+This is still in the early stage. Any suggestions will be appreciated.</description>
     </item>
     
     <item>
@@ -77,10 +79,10 @@ Also, if anyone wants to practice SQL, see Hackerrank&amp;rsquo;s SQL problem-se
 I am Loknath Dhar, a Linux Enthusiast.
 Aspire to become Linux System Administrator and want to find a way into infosec.
 This blog is used to share knowledge/ideas of mine.
- Music, Movies, Anime, Books, Football &amp;amp; Linux
- That&amp;rsquo;s me.
+Music, Movies, Anime, Books, Football &amp;amp; Linux
+That&amp;rsquo;s me.
 Personal favorite/Things I prefer: (I&amp;rsquo;m not sure if this section is right or not but I think it&amp;rsquo;s fun so why not!)
- Coding: Python, C++ OS: Pop!</description>
+Coding: Python, C++ OS: Pop!</description>
     </item>
     
     <item>
@@ -109,8 +111,8 @@ GET is an example of a HTTP verb, which are the different types of request. The 
       
       <guid>https://dhar01.github.io/posts/shodan-walkthrough/</guid>
       <description>Shodan.io is a search engine for the internet of things. There is a room about Shodan in Tryhackme and this walk-through is about that.
- Due to the nature of Shodan and its scanning services, the answer is changing all the time. So keep trying.
- Task 01 An autonomous system number (ASN) is a global identifier of a range of IP addresses. Basically, large companies like Google, Microsoft have their own ASN for all of the IP addresses they own.</description>
+Due to the nature of Shodan and its scanning services, the answer is changing all the time. So keep trying.
+Task 01 An autonomous system number (ASN) is a global identifier of a range of IP addresses. Basically, large companies like Google, Microsoft have their own ASN for all of the IP addresses they own.</description>
     </item>
     
     

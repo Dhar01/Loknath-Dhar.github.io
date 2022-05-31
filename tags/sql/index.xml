@@ -26,9 +26,9 @@ SELECT name, age, salary FROM employee WHERE age &amp;gt; 40; ALL and DISTINCT a
       
       <guid>https://dhar01.github.io/posts/sql-overview-basic/</guid>
       <description>This is a note type post for personal reference. I am learning SQL right now and for the learning purpose, I chose two websites:
- SQL Course; SQLBolt;  For awesome learning experience, my advice is to follow one of them according to your preference. This post is just a summary of those content.
+SQL Course; SQLBolt; For awesome learning experience, my advice is to follow one of them according to your preference. This post is just a summary of those content.
 Also, if anyone wants to practice SQL, see Hackerrank&amp;rsquo;s SQL problem-set.
- This is still in the early stage.</description>
+This is still in the early stage. Any suggestions will be appreciated.</description>
     </item>
     
   </channel>

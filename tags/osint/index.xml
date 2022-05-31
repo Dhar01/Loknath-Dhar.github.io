@@ -13,11 +13,11 @@
       
       <guid>https://dhar01.github.io/posts/google-fu/</guid>
       <description>Everyone should learn how to search.
- (This post contains some google dorking techniques for finding information on the internet. Google is your friend.)
- Searching Narrow down search query, use &amp;quot;_something_&amp;quot;.
+(This post contains some google dorking techniques for finding information on the internet. Google is your friend.)
+Searching Narrow down search query, use &amp;quot;_something_&amp;quot;.
 Ex: &amp;quot;Liverpool&amp;quot;
 For exact topic and site:
-site: website-name topic-name site: geekforgeeks sql Some terms    Term Action     filetype: search for a file by its extension   cache: view google&amp;rsquo;s cached version of a specified URL   intitle: the specified phrase MUST appear in the title of the page   allintext: searches specific text contained on any web page   allintitle: show pages that contain titles with X characters   allinurl: used to fetch results whose URL contains all the specified characters   inurl: useful for single keyword, same as allinurl   intitle: used to search for various keywords inside the title   inanchor: useful when need to search for an exact anchor text used on any links.</description>
+site: website-name topic-name site: geekforgeeks sql Some terms Term Action filetype: search for a file by its extension cache: view google&amp;rsquo;s cached version of a specified URL intitle: the specified phrase MUST appear in the title of the page allintext: searches specific text contained on any web page allintitle: show pages that contain titles with X characters allinurl: used to fetch results whose URL contains all the specified characters inurl: useful for single keyword, same as allinurl intitle: used to search for various keywords inside the title inanchor: useful when need to search for an exact anchor text used on any links.</description>
     </item>
     
   </channel>
