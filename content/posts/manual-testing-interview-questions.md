@@ -9,6 +9,7 @@ author: "Collected from the internet"
 (*As a fresher who is looking for opportunities to grow, I am currently learning Manual testing & mehtodologies. This post consists of a small collection of interview questions for SQA. You, who find this resource, I hope it'll be beneficial for you*)
 
 Things to do:
+
 - [ ] Adding proper figures for explantion.
 - [ ] Adding more questions.
 
@@ -21,6 +22,7 @@ Things to do:
 <span style="color: red;">What are the various models of SDLC?</span>
 
 <span style="color: green;"><ins>Ans:</ins></span> There are many types of models. Among them:
+
 - Waterfall model (*Linear Sequential Model*);
 - Prototype Model;
 - Rapid Application Development Model;
@@ -34,6 +36,7 @@ Things to do:
 <span style="color: red;">What is spiral model?</span>
 
 <span style="color: green;"><ins>Ans:</ins></span> In **Spiral Model**, activities are organized into many cycle. Each cycle begins with the
+
 - identification of objectives for that cycle for
 - different alternatives that are possible achieving the objectives.
 - constraints that exist.
@@ -46,6 +49,7 @@ Things to do:
 <span style="color: green;"><ins>Ans:</ins></span> **RAD** model is a type of incremental model. In RAD model the components or functions are developed in parallel as if they were mini projects.
 
 The phases in RAD model are:
+
 - **Business modeling**: The information flow is identified between various business functions.
 - **Data modeling**: Information gathered from business modeling is used to define data objects that are needed for the business.
 - **Process modeling**: Descriptions are created for adding, modifying, deleting or retrieving a data object.
@@ -58,7 +62,7 @@ The phases in RAD model are:
 
 In V model, project development and testing should go parallel. Verification phase should be carried out from SDLC where validation phase should be carried out from STLC.
 
-# About different types of testing 
+# About different types of testing
 
 <span style="color: red;">What is Unit testing?</span>
 
@@ -98,6 +102,7 @@ It includes plans for testing product, number of team members, environmental con
 <span style="color: red;">What is Test Methodology?</span>
 
 <span style="color: green;"><ins>Ans:</ins></span> **Test methodology** is a three step process
+
 - creating a test strategy
 - creating a test plan
 - executing tests
@@ -105,6 +110,7 @@ It includes plans for testing product, number of team members, environmental con
 <span style="color: red;">What is Test Strategy?</span>
 
 <span style="color: green;"><ins>Ans:</ins></span> **Test strategy** documents -
+
 - describes the roles, responsibilities and the resources required for the test and schedule.
 - tells us how the software product will be tested.
 - helps to review the test plan with the project team members executing tests.
@@ -128,6 +134,7 @@ It includes plans for testing product, number of team members, environmental con
 <span style="color: green;"><ins>Ans:</ins></span> **Software Testing Life Cycle** (*STLC*) is the testing process, in which different activities are carried out to improve the quality of the product.
 
 Steps in STLC are:
+
 - Requirement Analysis
 - Test planning
 - Test Case Development

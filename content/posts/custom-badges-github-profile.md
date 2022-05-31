@@ -25,11 +25,13 @@ https://img.shields.io/badge/
 Following the first part, we are going to add a dash (`-`). After the dash, we will write the name which we want to be appear on the badge (*case-sensitive*).
 
 Suppose, we want to write Linux on badge:
+
 ```
 https://img.shields.io/badge/-Linux
 ```
 
 To write more than one word, we need to add `%20` instead of space:
+
 ```
 https://img.shields.io/badge/-Amazon%20Prime
 ```
@@ -41,6 +43,7 @@ We need color for our badge background. The `shields.io` accepts named colors an
 For some more named colors and hex codes, see [here](https://htmlcolorcodes.com/color-names/).
 
 To add the named colors or the hex codes, we need to add a dash (-):
+
 ```
 https://img.shields.io/badge/-Linux-
 ```
@@ -50,15 +53,18 @@ On Simple Icons website, you will find the official color (*and hex code*) for t
 ## Step 04 : The Logo
 
 After finding the logo, it's time to add the logo name. There are two types of name one will find there:
+
 1. Single name. *For example: Linux*.
 2. Name with more than one word. *For example: Visual Studio Code*. 
 
 For single name, it's very simple to add:
+
 ```
 https://img.shields.io/badge/-Git-F05032?logo=git
 ```
 
 For more than one word, you have to add a dash (-) between words:
+
 ```
 https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux
 ```
@@ -66,6 +72,7 @@ https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux
 ## Step 05 : The Logo Color
 
 One can also define a color for logo by doing `&logoColor=<color>` at the end of the url.
+
 ```
 https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=white
 ```
@@ -73,6 +80,7 @@ https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=whit
 ## Step 06 : Other Stylings
 
 Other than colors, there are some more styling of the badges:
+
 - The flat style
 - The Plastic Button style
 - Squared Bold Style
@@ -83,6 +91,5 @@ https://img.shields.io/badge/-Kali%20Linux-557C94?logo=Kali-Linux&logoColor=whit
 ```
 
 One can also add width for the logo by adding `&logoWidth=<amount-of-pixels>`.
-
 
 To get a view of my GitHub profile, visit here: [Loknath Dhar](https://github.com/Dhar01)

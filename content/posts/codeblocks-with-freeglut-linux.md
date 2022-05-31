@@ -1,7 +1,9 @@
 ---
+
 title: "Setting up Codeblocks with Freeglut on Linux"
 date: 2021-02-06T01:34:53+06:00
 draft: false 
+
 ---  
 
 In my Computer Graphics class, the teacher asked us to setup Codeblocks for the glut. She gave us a tutorial on how to setup Codeblocks on windows but didn't provide any suggestion to set up on Linux. After some searching on google, I was able to setup Codeblocks with **Freeglut** (*which is an alternative to Glut and available on Linux*). This is a kind of writeup (*or tutorial*) on how I was able to setup Codeblocks with Freeglut.
@@ -21,11 +23,13 @@ sudo apt install g++ freeglut3 freeglut3-dev
 
 sudo apt install libxmu-dev libxi-dev
 ```
+
 For Codeblocks:
 
 ```
 sudo apt install codeblocks
 ```
+
 For [OpenGL](https://en.wikibooks.org/wiki/OpenGL_Programming/Installation/Linux):
 
 ```
@@ -33,6 +37,7 @@ sudo apt install build-essential libgl1-mesa-dev
 
 sudo apt install libglew-dev libsdl2-dev libsdl2-image-dev libglm-dev libfreetype6-dev  # some libraries
 ```
+
 Check OpenGL installation:
 
 ```
@@ -59,37 +64,37 @@ Resting part is collected from [here](http://forums.codeblocks.org/index.php?top
 ```
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_project_file>
-	<FileVersion major="1" minor="4" />
-	<Project>
-		<Option title="freeglut" />
-		<Option pch_mode="0" />
-		<Option compiler="gcc" />
-		<Build>
-			<Target title="default">
-				<Option output="freeglut.exe" />
-				<Option type="0" />
-				<Option compiler="gcc" />
-				<Option includeInTargetAll="1" />
-			</Target>
-		</Build>
-		<Compiler>
-			<Add directory="$(#freeglut.include)" />
-		</Compiler>
-		<Linker>
-			<Add library="freeglut" />
-			<Add library="glu32" />
-			<Add library="opengl32" />
-			<Add library="winmm" />
-			<Add library="gdi32" />
-			<Add library="user32" />
-			<Add library="kernel32" />
-			<Add directory="$(#freeglut.lib)" />
-		</Linker>
-		<Unit filename="main.cpp">
-			<Option compilerVar="CPP" />
-			<Option target="default" />
-		</Unit>
-	</Project>
+    <FileVersion major="1" minor="4" />
+    <Project>
+        <Option title="freeglut" />
+        <Option pch_mode="0" />
+        <Option compiler="gcc" />
+        <Build>
+            <Target title="default">
+                <Option output="freeglut.exe" />
+                <Option type="0" />
+                <Option compiler="gcc" />
+                <Option includeInTargetAll="1" />
+            </Target>
+        </Build>
+        <Compiler>
+            <Add directory="$(#freeglut.include)" />
+        </Compiler>
+        <Linker>
+            <Add library="freeglut" />
+            <Add library="glu32" />
+            <Add library="opengl32" />
+            <Add library="winmm" />
+            <Add library="gdi32" />
+            <Add library="user32" />
+            <Add library="kernel32" />
+            <Add directory="$(#freeglut.lib)" />
+        </Linker>
+        <Unit filename="main.cpp">
+            <Option compilerVar="CPP" />
+            <Option target="default" />
+        </Unit>
+    </Project>
 </CodeBlocks_project_file>
 ```
 
@@ -263,6 +268,7 @@ function SetupProject(project)
 ```
 
 Save it.
+
 - Now on `/usr/share/codeblocks/templates/wizard` directory, there is a script named `config.script` and add the following line at the end of the file:
 
 ```
@@ -314,9 +320,7 @@ Just checking if things are working or not.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/pxpufqfqax0g9kicouog.png)
 
-
 That's it.
 
 Okay, that's all. Hope, everything works fine.
 See ya later!
-
