@@ -12,7 +12,10 @@
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dhar01.github.io/posts/all_about_git/</guid>
-      <description>Desc Text.</description>
+      <description>SCM : Source Control Management.
+VCS: Version Control System.
+ All of the content here is for command line, as I am very comfortable with terminal [and of course Linux].
+ Configure git # set your name $ git config user.name &amp;#34;user-name&amp;#34;  # set your email $ git config user.email &amp;#34;user-email@example.com&amp;#34; Basic # to check git version $ git --version  # initializing git repository $ git init  # check status of the git repo $ git status  # Add all files at once $ git add .</description>
     </item>
     
     <item>
