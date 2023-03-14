@@ -1,6 +1,6 @@
 ---
 title: "Set up SSL for SolrCloud"
-date: 2022-08-24
+date: 2023-03-13
 author: "Me"
 draft: false
 ---
@@ -32,6 +32,34 @@ http://IP:8983/solr/admin/collections?action=CLUSTERPROP&name=urlScheme&val=http
 ```
 
 This command only needs to be run on one node of the cluster, the change will apply to all nodes.
+
+
+
+
+
+
+From SolrCloud documentation, you'll find a way to setup SSL which is self-signed certificate. For production, we needed to setup SSL certificate from an authorized CA. You will have to buy Mulit-Domain SSL (*SAN certificate*) to cover SolrCloud setup. I'm going to share my experience on how did I setup SSL on our SolrCloud.
+
+Our SolrCloud was consisted of 3 servers. Suppose, they are:
+1. 192.0.0.1
+2. 192.0.0.2
+3. 192.0.0.3
+
+By accessing `http://192.0.0.1:8983`, we can access to Solr frontend. For three servers, there are three frontend. We have to secure 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Configure Solr
 
