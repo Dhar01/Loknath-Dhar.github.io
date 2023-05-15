@@ -9,8 +9,6 @@ draft: false
 
 ## Hello There
 
-Welcome to my blog!
-
 I am **Loknath Dhar**, a Linux Enthusiast.
 
 Aspire to become Linux System Administrator and want to find a way into infosec.
@@ -21,7 +19,7 @@ This blog is used to **share knowledge/ideas** of mine.
 
 That's me.
 
-## Personal favorite/Things I prefer:
+## Personal favorite/Things I prefer
 
 (*I'm not sure if this section is right or not but I think it's fun so why not!*)
 
@@ -42,4 +40,3 @@ That's me.
 - Blog is deployed with GitHub Pages.
 - For photos: [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/)
 - For icons: [Simple Icons](https://simpleicons.org/)
-

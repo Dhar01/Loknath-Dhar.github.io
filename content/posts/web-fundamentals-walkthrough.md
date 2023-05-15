@@ -1,7 +1,7 @@
 ---
 title: "Web Fundamentals walk-through [TryHackMe]"
 date: 2020-10-10T01:34:53+06:00
-draft: false 
+draft: false
 ---
 # Task 2
 
@@ -90,7 +90,7 @@ Each browser store them differently, so cookies won't be able to another browser
 
 As HTTP is **stateless** (*each request is independent and no state is tracked internally*), cookies are used to keep track of this. They allow sites to keep track of data.
 
-Cookies have: 
+Cookies have:
 1. a **name** : identifies the cookie.
 2. a **value** : where data is stored.
 3. an **expiry date** : when the browser will get rid of the cookie automatically.
@@ -144,6 +144,4 @@ There are some mentioned tasks on the ctf room. By connecting to the server with
 
 > Note 1: the web site IP address my be differ from deployed machine. That's why I hide it, enter the IP address you get from the room.
 
-> Note 2: I heard this room was *subscirber only*, but at the time of writing, it is completely free. 
-
-
+> Note 2: I heard this room was *subscirber only*, but at the time of writing, it is completely free.

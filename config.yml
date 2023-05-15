@@ -1,129 +1,149 @@
-baseURL: https://dhar01.github.io/
-title: Loknath's Space
-paginate: 5
+baseURL: https://dhar01.github.io
+languageCode: en-us
+title: "Loknath's Space"
+paginate: 8
 theme: "PaperMod"
 
-defaultContentLanguage: en
-
-enableInlineShortcodes: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
-enableEmoji: true
+
+googleAnalytics: UA-123-45
 
 minify:
-    disableXML: true
-    minifyOutput: true
-
-menu:
-    main:
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 1
-        - identifier: archives
-          name: Archives
-          url: /archives/
-          weight: 2
-        - identifier: tags
-          name: Tags
-          url: /tags/
-          weight: 3
-        - identifier: about
-          name: About
-          url: /about/
-          weight: 4
+  disableXML: true
+  minifyOutput: true
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
 params:
-    env: production
-    title: Loknath's Space
-    description: Share / Summary / Record 
-    keywords: [Blog, Portfolio]
-    author: Me
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "Loknath's Space"
+  description: Share / Summary / Record
+  keywords: [Blog, Portfolio]
+  author: by Loknath
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
-    DateFormat: "January 2, 2006"
-    defaultTheme: auto
-    disableThemeToggle: false
-    displayFullLangName: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: false
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
 
-    ShowReadingTime: true
-    ShowShareButtons: true
-    ShowBreadCrumbs: false 
-    ShowPostNavLinks: false
-    ShowCodeCopyButtons: true
-    disableSpecial1stPost: false
-    disableScrollToTop: false
-    comments: true 
-    hidemeta: false
-    hideSummary: false
-    showtoc: true
-    tocopen: false
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
 
-    # home-info mode
-    homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: >
-          I'm **Loknath Dhar**, a Linux Enthusiast. 🖥️
+  label:
+    text: "#loki"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
 
-          - Talk to me about Linux, DevOps & Infosec.
-          
-    socialIcons:
-        - name: LinkedIn
-          url: "https://www.linkedin.com/in/dhar01/" 
-        - name: GitHub
-          url: "https://github.com/dhar01"
-        - name: Telegram
-          url: "https://t.me/Dhar01"
-        - name: email
-          url: "mailto:loknathdhar66@gmail.com"
-        - name: rss
-          url: "index.xml"
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Loknath's Space"
+    subtitle: "Gopher, Linux Enthusiast, DevOps"
+    imageUrl: "/images/profile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Loknath Dhar
+    buttons:
+      - name: About
+        url: about
+      - name: Blog
+        url: posts
 
-    fuseOpts:
-        isCaseSensitive: false
-        shouldSort: true
-        location: 0
-        distance: 1000
-        threshold: 0.4
-        minMatchCharLength: 0
-        keys: [ "title", "permalink", "summary", "content" ]
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >
+      I'm **Loknath Dhar**, a Linux Enthusiast. 🖥️
 
-taxonomies:
-    category: categories
-    tag: tags
+      - Talk to me about Linux, DevOps & Infosec.
 
+  socialIcons:
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/dhar01/"
+    - name: Telegram
+      url: "https://t.me/Dhar01"
+    - name: github
+      url: "https://github.com/Dhar01"
+    - name: email
+      url: "mailto:loknathdhar66@gmail.com"
+    - name: RSS
+      url: "index.html"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: Archive
+      name: Archives
+      url: "/archives"
+      weight: 30
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
-
-privacy:
-    vimeo:
-        disabled: false
-        simple: true
-
-    twitter:
-        disabled: false
-        enableDNT: true
-        simple: true
-
-    instagram:
-        disabled: false
-        simple: true
-
-    youtube:
-        disabled: false
-        privacyEnhanced: true
-
-services:
-    instagram:
-        disableInlineCSS: true
-    twitter:
-        disableInlineCSS: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
