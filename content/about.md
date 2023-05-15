@@ -1,29 +1,23 @@
 ---
 title: "About"
 date: 2022-02-19T11:30:03+00:00
-author: "Loknath Dhar"
 showToc: true
 TocOpen: false
 draft: false
 ---
+# \U0001F44B Hi
 
-## Hello There
+I'm **Loknath**, a Linux enthusiast who bleed Liverpool RED on matchday! Trying to be a better programmer, weed-smoker, an infrequent writer. I enjoy cinema, anime, can't live without songs, buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes crave for rain, and most of the time, off days.
 
-I am **Loknath Dhar**, a Linux Enthusiast.
+At daytime, I would like to see myself as a story-teller, but in reality, passing my days as Jr. DevOps Engineer; wondering when I build a good project by myself (*yeah, I am pretty bad at programming*).
 
-Aspire to become Linux System Administrator and want to find a way into infosec.
-
-This blog is used to **share knowledge/ideas** of mine.
-
-> Music, Movies, Anime, Books, Football & **Linux**
-
-That's me.
+Nice to meet you!
 
 ## Personal favorite/Things I prefer
 
 (*I'm not sure if this section is right or not but I think it's fun so why not!*)
 
-- Coding: Python, C++
+- Language: Bash, Golang, Python.
 - OS: [Pop!\_OS](https://pop.system76.com/)
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - Text Editor: [Neovim](https://neovim.io/)
@@ -37,6 +31,5 @@ That's me.
 - Static website generator: [Hugo](https://gohugo.io/)
 - Theme of the website: [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - Host: [GitHub](https://github.com/Dhar01/dhar01.github.io)
-- Blog is deployed with GitHub Pages.
 - For photos: [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/)
 - For icons: [Simple Icons](https://simpleicons.org/)
