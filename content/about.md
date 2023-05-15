@@ -5,7 +5,7 @@ showToc: true
 TocOpen: false
 draft: false
 ---
-# \U0001F44B Hi!
+# Hi!
 
 I'm **Loknath**, a Linux enthusiast who bleed Liverpool RED on matchday! Trying to be a better programmer, weed-smoker, an infrequent writer. I enjoy cinema, anime, can't live without songs, buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes crave for rain, and most of the time, off days.
 
