@@ -7,9 +7,9 @@ draft: false
 ---
 # Hi!
 
-I'm **Loknath**, a Linux enthusiast who bleed Liverpool RED on matchday! Trying to be a better programmer, weed-smoker, an infrequent writer. I enjoy cinema, anime, can't live without songs, buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes crave for rain, and most of the time, off days.
+I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a better programmer with Golang, a weed smoker and an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving rain, and most of the time, off days.
 
-At daytime, I would like to see myself as a story-teller, but in reality, passing my days as Jr. DevOps Engineer; wondering when I build a good project by myself (*yeah, I am pretty bad at programming*).
+In the daytime, I would like to see myself as a storyteller, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project by myself (*yeah, I am pretty bad at programming*).
 
 Nice to meet you!
 
