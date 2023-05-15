@@ -4,7 +4,13 @@
     <title>others on Loknath&#39;s Space</title>
     <link>https://dhar01.github.io/tags/others/</link>
     <description>Recent content in others on Loknath&#39;s Space</description>
+    <image>
+      <title>Loknath&#39;s Space</title>
+      <url>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
     <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/others/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Making custom badges using shields.io</title>

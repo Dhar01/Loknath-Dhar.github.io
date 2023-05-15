@@ -4,8 +4,24 @@
     <title>Posts on Loknath&#39;s Space</title>
     <link>https://dhar01.github.io/posts/</link>
     <description>Recent content in Posts on Loknath&#39;s Space</description>
+    <image>
+      <title>Loknath&#39;s Space</title>
+      <url>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Most common Vim/Neovim Settings</title>
+      <link>https://dhar01.github.io/posts/common-vim-neovim-settings/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/common-vim-neovim-settings/</guid>
+      <description>As I edit system configuration files day to day basis, my number one choice for text editor is vim. So here&amp;rsquo;s a post about some common settings:
+&amp;#34; Number-related settings set number &amp;#34; Display line numbers set relativenumber &amp;#34; Display relative line numbers set signcolumn=yes &amp;#34; Always show the sign column &amp;#34; Search-related settings set hlsearch &amp;#34; Highlight search results set incsearch &amp;#34; Highlight search matches as you type set ignorecase &amp;#34; Ignore case when searching set smartcase &amp;#34; Ignore case only if search pattern is all lowercase &amp;#34; Appearance-related settings set laststatus=2 &amp;#34; Always show status line set cursorline &amp;#34; Highlight current line &amp;#34; set colorcolumn=80 &amp;#34; Display a vertical line at column 80 to help with line length set noerrorbells &amp;#34; Disable error bells and visual bells set wrap &amp;#34; Wrap long lines visually set linebreak &amp;#34; Break long lines at word boundaries &amp;#34; Window-related settings set splitright &amp;#34; Split windows to the right set splitbelow &amp;#34; Split windows below set scrolloff=5 &amp;#34; Keep 5 lines above/below cursor when scrolling set clipboard+=unnamed &amp;#34; Copy text to system clipboard set mouse=a &amp;#34; Enable mouse support &amp;#34; Completion-related settings set wildmenu &amp;#34; Show command-line completion options in a menu set wildmode=list:longest,full &amp;#34; Highlight and complete the longest common part of the options &amp;#34; Mode-related settings set showmode &amp;#34; Show current mode (insert/visual/command) in status line &amp;#34; Folding-related settings set foldmethod=indent &amp;#34; Use indent-based folding set foldlevelstart=99 &amp;#34; Start with all folds open &amp;#34; Wrapping-related settings set whichwrap+=&amp;lt;,&amp;gt;,h &amp;#34; Allow wrapping past the beginning or end of a line &amp;#34; Create a horizontal split with Ctrl+s nnoremap &amp;lt;C-s&amp;gt; :split&amp;lt;CR&amp;gt; &amp;#34; Create a vertical split with Ctrl+v nnoremap &amp;lt;C-v&amp;gt; :vsplit&amp;lt;CR&amp;gt; &amp;#34; Create a new horizontal split and start editing a new file with Ctrl+n nnoremap &amp;lt;C-n&amp;gt; :split&amp;lt;CR&amp;gt;:enew&amp;lt;CR&amp;gt; &amp;#34; Create a new vertical split and start editing a new file with Ctrl+m nnoremap &amp;lt;C-m&amp;gt; :vsplit&amp;lt;CR&amp;gt;:enew&amp;lt;CR&amp;gt; Thanks!</description>
+    </item>
+    
     <item>
       <title>Set up SSL for SolrCloud</title>
       <link>https://dhar01.github.io/posts/set-up-ssl-for-solrcloud/</link>
@@ -58,8 +74,7 @@ Well, after some reading and searching, I was able to understand how to make the
       <guid>https://dhar01.github.io/posts/google-fu/</guid>
       <description>Everyone should learn how to search.
 (This post contains some google dorking techniques for finding information on the internet. Google is your friend.)
-Searching Narrow down search query, use &amp;quot;_something_&amp;quot;.
-Ex: &amp;quot;Liverpool&amp;quot;
+Searching Narrow down search query, use &amp;quot;_something_&amp;quot;. Ex: &amp;quot;Liverpool&amp;quot;
 For exact topic and site:
 site: website-name topic-name site: geekforgeeks sql Some terms Term Action filetype: search for a file by its extension cache: view google&amp;rsquo;s cached version of a specified URL intitle: the specified phrase MUST appear in the title of the page allintext: searches specific text contained on any web page allintitle: show pages that contain titles with X characters allinurl: used to fetch results whose URL contains all the specified characters inurl: useful for single keyword, same as allinurl intitle: used to search for various keywords inside the title inanchor: useful when need to search for an exact anchor text used on any links.</description>
     </item>
