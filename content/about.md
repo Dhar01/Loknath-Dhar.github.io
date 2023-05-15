@@ -5,7 +5,7 @@ showToc: true
 TocOpen: false
 draft: false
 ---
-# Hi!
+# Hi
 
 I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a better programmer with Golang, a weed smoker and an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving rain, and most of the time, off days.
 
@@ -13,7 +13,7 @@ In the daytime, I would like to see myself as a storyteller, but in reality, I p
 
 Nice to meet you!
 
-## Personal favorite/Things I prefer
+## Things I prefer
 
 (*I'm not sure if this section is right or not but I think it's fun so why not!*)
 
@@ -22,7 +22,6 @@ Nice to meet you!
 - Browser: [Firefox](https://www.mozilla.org/en-US/firefox/new/)
 - Text Editor: [Neovim](https://neovim.io/)
 - Bengali Font: [Atma](https://fonts.google.com/specimen/Atma)
-- Video Software: [mpv](https://mpv.io/)
 - Football Club: Liverpool
 - Anime: Attack on Titan
 
