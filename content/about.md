@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "The mind.."
 date: 2022-02-19T11:30:03+00:00
 showToc: true
 TocOpen: false
