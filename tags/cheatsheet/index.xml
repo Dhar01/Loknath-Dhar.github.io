@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>cheatsheet on Loknath&#39;s Space</title>
+    <link>https://dhar01.github.io/tags/cheatsheet/</link>
+    <description>Recent content in cheatsheet on Loknath&#39;s Space</description>
+    <image>
+      <title>Loknath&#39;s Space</title>
+      <url>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/cheatsheet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning Git</title>
+      <link>https://dhar01.github.io/posts/all_about_git/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_git/</guid>
+      <description>SCM : Source Control Management.
+VCS: Version Control System.
+All of the content here is for command line, as I am very comfortable with terminal [and of course Linux].
+Basic git syntax: program | action | destination.
+For example: git | add | .
+Configure git # set your name $ git config user.name &amp;#34;user-name&amp;#34; # set your email $ git config user.email &amp;#34;user-email@example.com&amp;#34; # set global user name $ git config --global user.</description>
+    </item>
+    
+  </channel>
+</rss>

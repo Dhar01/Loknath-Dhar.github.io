@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>walkthrough on Loknath&#39;s Space</title>
+    <link>https://dhar01.github.io/tags/walkthrough/</link>
+    <description>Recent content in walkthrough on Loknath&#39;s Space</description>
+    <image>
+      <title>Loknath&#39;s Space</title>
+      <url>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dhar01.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Dorking (finding information) - OSINT</title>
+      <link>https://dhar01.github.io/posts/google-fu/</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/google-fu/</guid>
+      <description>Everyone should learn how to search.
+(This post contains some google dorking techniques for finding information on the internet. Google is your friend.)
+Searching Narrow down search query, use &amp;quot;_something_&amp;quot;. Ex: &amp;quot;Liverpool&amp;quot;
+For exact topic and site:
+site: website-name topic-name site: geekforgeeks sql Some terms Term Action filetype: search for a file by its extension cache: view google&amp;rsquo;s cached version of a specified URL intitle: the specified phrase MUST appear in the title of the page allintext: searches specific text contained on any web page allintitle: show pages that contain titles with X characters allinurl: used to fetch results whose URL contains all the specified characters inurl: useful for single keyword, same as allinurl intitle: used to search for various keywords inside the title inanchor: useful when need to search for an exact anchor text used on any links.</description>
+    </item>
+    
+    <item>
+      <title>Web Fundamentals walk-through [TryHackMe]</title>
+      <link>https://dhar01.github.io/posts/web-fundamentals-walkthrough/</link>
+      <pubDate>Sat, 10 Oct 2020 01:34:53 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/web-fundamentals-walkthrough/</guid>
+      <description>Task 2 A DNS request is made. When browser knows the server&amp;rsquo;s IP address, it ask the server for the web page which is done with a HTTP GET request.
+GET is an example of a HTTP verb, which are the different types of request. The server responds to the GET request with the web page content. IF the web page is loading extra resources, like JavaScript, images, or CSS files, those will be retrieved in separate GET requests.</description>
+    </item>
+    
+    <item>
+      <title>Shodan.io Walk-through [Tryhackme]</title>
+      <link>https://dhar01.github.io/posts/shodan-walkthrough/</link>
+      <pubDate>Fri, 09 Oct 2020 01:34:53 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/shodan-walkthrough/</guid>
+      <description>Shodan.io is a search engine for the internet of things. There is a room about Shodan in Tryhackme and this walk-through is about that.
+Due to the nature of Shodan and its scanning services, the answer is changing all the time. So keep trying.
+Task 01 An autonomous system number (ASN) is a global identifier of a range of IP addresses. Basically, large companies like Google, Microsoft have their own ASN for all of the IP addresses they own.</description>
+    </item>
+    
+  </channel>
+</rss>

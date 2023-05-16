@@ -11,27 +11,45 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>others</title>
-      <link>https://dhar01.github.io/tags/others/</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <title>how to</title>
+      <link>https://dhar01.github.io/tags/how-to/</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dhar01.github.io/tags/others/</guid>
+      <guid>https://dhar01.github.io/tags/how-to/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>osint</title>
-      <link>https://dhar01.github.io/tags/osint/</link>
+      <title>cheatsheet</title>
+      <link>https://dhar01.github.io/tags/cheatsheet/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/tags/cheatsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>resources</title>
+      <link>https://dhar01.github.io/tags/resources/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/tags/resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>walkthrough</title>
+      <link>https://dhar01.github.io/tags/walkthrough/</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dhar01.github.io/tags/osint/</guid>
+      <guid>https://dhar01.github.io/tags/walkthrough/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SQL</title>
+      <title>sql</title>
       <link>https://dhar01.github.io/tags/sql/</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       
