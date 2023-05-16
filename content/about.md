@@ -7,11 +7,13 @@ draft: false
 ---
 # 👋 Hi..!
 
-I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a better programmer with Golang, a stoner and an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving rain, and most of the time, off days.
+I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a better programmer with Golang, also a stoner and an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving rain, and most of the time, off days.
 
-In the daytime, <strikethrough>I would like to see myself as a storyteller</strikethrough>, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project by myself (*yeah, I am pretty bad at programming*).
+In the daytime, ~~I would like to see myself as a storyteller~~, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project by myself (*yeah, I am pretty bad at programming*). One special thing about me if you ask, I don't know much about operating a Windows system. Always been a Linux guy!
 
-Nice to meet you! 🤝
+[Talk to me](https://t.me/Dhar01) about Linux, DevOps, InfoSec, Golang, and obviously about Football! Say Hi!
+
+And hey, nice to meet you! 🤝
 
 ## 🌻 Things I love
 
