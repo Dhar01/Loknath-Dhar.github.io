@@ -1,21 +1,21 @@
 ---
-title: "The mind.."
+title: "👨‍💻 The man or the mind behind.."
 date: 2022-02-19T11:30:03+00:00
 showToc: true
 TocOpen: false
 draft: false
 ---
-# Hi
+# 👋 Hi..!
 
 I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a better programmer with Golang, a stoner and an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving rain, and most of the time, off days.
 
-In the daytime, I would like to see myself as a storyteller, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project by myself (*yeah, I am pretty bad at programming*).
+In the daytime, <strikethrough>I would like to see myself as a storyteller</strikethrough>, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project by myself (*yeah, I am pretty bad at programming*).
 
-Nice to meet you!
+Nice to meet you! 🤝
 
-## Things I prefer
+## 🌻 Things I love
 
-(*I'm not sure if this section is right or not but I think it's fun so why not!*)
+(*I'm not sure if this section is right or not, but I think it's fun so why not!*)
 
 - Language: Bash, Golang, Python.
 - OS: [Pop!\_OS](https://pop.system76.com/)
@@ -25,7 +25,7 @@ Nice to meet you!
 - Football Club: Liverpool
 - Anime: Attack on Titan
 
-# About Blog
+# 📕 About Blog
 
 - Static website generator: [Hugo](https://gohugo.io/)
 - Theme of the website: [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
