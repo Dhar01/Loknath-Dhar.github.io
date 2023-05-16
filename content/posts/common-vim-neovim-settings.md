@@ -1,7 +1,6 @@
 ---
 title: "Most common Vim/Neovim Settings"
 date: 2023-03-15
-author: "Me"
 draft: false
 ---
 

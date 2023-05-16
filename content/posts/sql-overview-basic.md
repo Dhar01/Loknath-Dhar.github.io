@@ -1,9 +1,8 @@
 ---
 title: "SQL Overview - 01"
 date: 2022-02-22
-tags: ["SQL"]
+tags: ["sql"]
 draft: false
-author: Me
 ---
 
 This is a *note* type post for personal reference.  I am learning SQL right now and for the learning purpose, I chose two websites:
@@ -94,7 +93,7 @@ Common data types:
 | `date` | Date value |
 | `number` (size, d) | Number value with a maximum number of digits of *size* total, with a maximum number of `d` digits to the right of the decimal. |
 
-A **constraint** is a rule associated with a column that the data entered into that column must follow the rules. 
+A **constraint** is a rule associated with a column that the data entered into that column must follow the rules.
 
 ### INSERT INTO a table
 
@@ -134,7 +133,7 @@ Example:
 UPDATE phone_book
     SET area_code = 623
     WHERE prefix = 979;
-    
+
 UPDATE phone_book
     SET last_name = 'Smith', prefix = 555, suffix = 9292
     WHERE last_name = 'Jones';

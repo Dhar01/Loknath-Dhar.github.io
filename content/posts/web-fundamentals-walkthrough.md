@@ -1,6 +1,7 @@
 ---
 title: "Web Fundamentals walk-through [TryHackMe]"
 date: 2020-10-10T01:34:53+06:00
+tags: ["walkthrough"]
 draft: false
 ---
 # Task 2

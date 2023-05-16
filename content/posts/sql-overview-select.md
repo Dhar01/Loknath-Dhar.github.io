@@ -1,9 +1,8 @@
 ---
 title: "SQL Overview - 02"
 date: 2022-02-23
-tags: ["SQL"]
+tags: ["sql"]
 draft: false
-author: Me
 ---
 
 The **SELECT** statement is used to query the database and retrieve data that match the criteria.
@@ -11,15 +10,17 @@ The **SELECT** statement is used to query the database and retrieve data that ma
 The `SELECT` statement has five main clauses to choose from.
 
 Format of the `SELECT` statement:
+
 ```sql
-SELECT [ALL | DISTINCT] column1[,column2] 
-FROM [table1, table2] 
-[WHERE "conditions"] 
-[GROUP BY "column-list"] [HAVING "conditions] 
+SELECT [ALL | DISTINCT] column1[,column2]
+FROM [table1, table2]
+[WHERE "conditions"]
+[GROUP BY "column-list"] [HAVING "conditions]
 [ORDER BY "column-list" [ASC | DESC] ]
 ```
 
 Example:
+
 ```sql
 SELECT name, age, salary
 FROM employee
@@ -31,6 +32,7 @@ WHERE age > 40;
 ### DISTINCT
 
 `DISTINCT` will discard the duplicate records for the columns specified after the **SELECT** statement.
+
 ```sql
 SELECT DISTINCT age FROM employee_info;
 ```
@@ -49,11 +51,13 @@ SELECT DISTINCT age FROM employee_info;
 **Aggregate functions** are used to compute against a *returned column of numeric data* from `SELECT` statement. They summarize the results of a particular column of selected data.
 
 Example:
+
 ```sql
 SELECT AVG(salary) FROM employee WHERE title = 'Programmer';
 ```
 
 This statement will return the number of rows in the employees table:
+
 ```sql
 SELECT Count(*) FROM employee;
 ```
@@ -69,6 +73,7 @@ GROUP BY "column-list";
 ```
 
 Multiple grouping columns example:
+
 ```sql
 SELECT last_name, MAX(salary), dept
 FROM employee
@@ -89,6 +94,7 @@ HAVING "condition";
 ```
 
 Example:
+
 ```sql
 SELECT dept, AVG(salary)
 FROM employee
@@ -101,6 +107,7 @@ HAVING AVG(salary) > 20000;
 **ORDER BY** is an optional clause which will allow to display the results of query in a sorted order based on the columns.
 
 Syntax:
+
 ```sql
 SELECT column1, SUM(column2)
 FROM "list-of-tables"
@@ -108,6 +115,7 @@ ORDER BY "column-list" [ASC | DESC];
 ```
 
 Example:
+
 ```sql
 SELECT employee_id, dept, name, age, salary
 FROM employee_info
@@ -117,7 +125,7 @@ ORDER BY salary, age DESC;
 
 #### combining conditions & boolean operators
 
-The **AND** operator can be used to join two or more conditions in the `WHERE` clause. 
+The **AND** operator can be used to join two or more conditions in the `WHERE` clause.
 
 ```sql
 SELECT column1, SUM(column2) FROM "list-of-tables"
@@ -155,6 +163,7 @@ WHERE age BETWEEN 30 AND 40;
 ### Mathematical Functions
 
 Standard ANSI SQL-92 supports the following first basic arithmetic operators:
+
 - `+` : addition
 - `-` : subtraction
 - `*` : multiplication
@@ -175,6 +184,7 @@ I am adding some functions which are not standard but they were available on sev
 | `SQRT[x]` | returns the square-root value of x |
 
 Example:
+
 ```sql
 SELECT ROUND(salary), firstname
 FROM employee_info
@@ -198,9 +208,11 @@ SELECT customer_info.firstname, customer_info.lastname, purchases.item
 FROM customer_info, purchases
 WHERE customer_info.customer_number = purchases.customer_number;
 ```
+
 This *join* is known as an **Inner Join** or **Equijoin**.
 
 Although the above will probably work, here is the ANSI SQL-92 syntax specification for an Inner Join using the preceding statement:
+
 ```sql
 SELECT customer_info.firstname, customer_info.lastname, purchases.item
 FROM customer_info INNER JOIN purchases

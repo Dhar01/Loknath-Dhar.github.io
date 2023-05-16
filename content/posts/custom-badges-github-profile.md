@@ -1,9 +1,8 @@
 ---
 title: "Making custom badges using shields.io"
 date: 2022-03-18
-tags: ["others"]
+tags: ["how to"]
 draft: false
-author: Me
 ---
 
 When I wanted to customize my GitHub profile, I visited many developers' GitHub profiles and used to see some badges which seems cool to me. When I looked at the code behind the profiles, I didn't have the slightest idea what was going on. Later, I tried to copy some of the code and paste them into my code, but it couldn't solve the need.
@@ -55,7 +54,7 @@ On Simple Icons website, you will find the official color (*and hex code*) for t
 After finding the logo, it's time to add the logo name. There are two types of name one will find there:
 
 1. Single name. *For example: Linux*.
-2. Name with more than one word. *For example: Visual Studio Code*. 
+2. Name with more than one word. *For example: Visual Studio Code*.
 
 For single name, it's very simple to add:
 

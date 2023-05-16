@@ -1,7 +1,7 @@
 ---
 title: "Setting Up SolrCloud for Production"
 date: 2022-07-28
-author: "Me"
+tags: ["how to"]
 draft: false
 ---
 
@@ -154,7 +154,7 @@ SOLR_PORT=8983
 # To make available on the public internet
 SOLR_JETTY_HOST="0.0.0.0"
 
-# set this up in case if you set up authentication. 
+# set this up in case if you set up authentication.
 # By setting this, the script will run without error
 SOLR_AUTH_TYPE="basic"
 SOLR_AUTHENTICATION_OPTS="-Dbasicauth=username:password"

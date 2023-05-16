@@ -1,8 +1,9 @@
 ---
 title: "Shodan.io Walk-through [Tryhackme]"
 date: 2020-10-09T01:34:53+06:00
+tags: ["walkthrough"]
 draft: false
----  
+---
 
 [Shodan.io ](https://www.shodan.io/)is a search engine for the internet of things. There is a room about Shodan in Tryhackme and this walk-through is about that.
 
@@ -123,4 +124,3 @@ Here is a list of filters for shodan:
 
 
 Shodan has a limit on the free user account. It has an API, use it for more searches.
-

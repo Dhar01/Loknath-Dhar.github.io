@@ -2,15 +2,16 @@
 
 title: "Setting up Codeblocks with Freeglut on Linux"
 date: 2021-02-06T01:34:53+06:00
-draft: false 
+tags: ["how to"]
+draft: false
 
----  
+---
 
 In my Computer Graphics class, the teacher asked us to setup Codeblocks for the glut. She gave us a tutorial on how to setup Codeblocks on windows but didn't provide any suggestion to set up on Linux. After some searching on google, I was able to setup Codeblocks with **Freeglut** (*which is an alternative to Glut and available on Linux*). This is a kind of writeup (*or tutorial*) on how I was able to setup Codeblocks with Freeglut.
 
-> This setup is tested and working on Pop os, as of writing, should be working with Ubuntu/Debian with the latest Codeblocks. 
+> This setup is tested and working on Pop os, as of writing, should be working with Ubuntu/Debian with the latest Codeblocks.
 
-Also, I linked to the posts from where I collect these and setup Codeblocks to work properly. 
+Also, I linked to the posts from where I collect these and setup Codeblocks to work properly.
 
 # Installation Part
 

@@ -1,7 +1,7 @@
 ---
 title: "Learning Git"
 date: 2022-05-31
-author: "Me"
+tags: ["cheatsheet", "resources"]
 draft: false
 ---
 
@@ -96,7 +96,7 @@ $ git checkout -- .
 $ git checkout {commit-ID} -- {file-name}
 
 # check help menu
-$ git help log 
+$ git help log
 ```
 
 # Update & Delete
@@ -281,9 +281,9 @@ $ git stash clear
 > I have nothing to say about this section. Ultimate weapon
 
 ```bash
-$ git reflog
+git reflog
 
-$ git reset --hard {ssh-link}
+git reset --hard {ssh-link}
 ```
 
 # Git Compare
@@ -327,8 +327,8 @@ $ git pull origin master
 # Using SSH
 
 ```bash
-$ git remote -v
-$ git remote set-url origin git@github.com:username/repo-name.git
+git remote -v
+git remote set-url origin git@github.com:username/repo-name.git
 ```
 
 No need to give password every time.
@@ -338,9 +338,9 @@ No need to give password every time.
 Silly, but this section is for myself. 🤐
 
 ```bash
-$ ssh-keygen -t rsa -b 4096 -C "githubMail"
-$ eval "$(ssh-agent -s)"
-$ ssh-add ~/.ssh/id_rsa
-$ vim .ssh/id_rsa.pub    # copy the value inside
-$ ssh -T git@github.com
+ssh-keygen -t rsa -b 4096 -C "githubMail"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+vim .ssh/id_rsa.pub    # copy the value inside
+ssh -T git@github.com
 ```
