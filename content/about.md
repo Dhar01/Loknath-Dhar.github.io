@@ -7,9 +7,9 @@ draft: false
 ---
 # 👋 Hey there
 
-I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a programmer with Golang, also a stoner and an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving for the smell and sounds of rain, and most of the time, for off days.
+I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a programmer with Golang, also an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving for the smell and sounds of rain, and most of the time, haha, for off days.
 
-In the daytime, ~~I would love to see myself as a storyteller~~, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project by myself (*yeah, I am pretty bad at programming*). One special thing about me if you ask, I don't know much about operating a Windows system. Always had a Linux heart beating inside me!
+In the daytime, ~~I would love to see myself as a storyteller~~, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project (*yeah, I am pretty bad at programming but hey, I'm trying*). One special thing about me if you ask, I don't know much about operating a Windows system. Always had a Linux heart beating inside me!
 
 Fear not! I may not be a *go-to-help-for-windows-system* type of guy, but hey, I'm open for some DevOps, InfoSec, Golang moments! Everything will be better if you're a Football fan, just drop me a line over [telegram](https://t.me/Dhar01), I'm about always available there!
 
@@ -18,9 +18,10 @@ And hey mate, nice to meet you! 🤝
 - - -
 Currently,
 
-- reading *Head First Go*, having a good time with this! Hope, I will be able to write some codes!
-- very exited for the upcoming COSMIC by system76!
-- re-watching *Game of Thrones*, one episode at a night.
+- reading *Head First Go*, having a good time with this! We're vibing together!
+- Also, following [learn go with tests](https://quii.gitbook.io/learn-go-with-tests/) ; as a new programmer, trying to develop Test Driven Development (TDD) mindset.
+- very exited for the upcoming COSMIC DE by system76! 🙌 Love the working flow!
+- watching [*Don't F\*ck with cats: Hunting an internet killer*](https://www.imdb.com/title/tt11318602/), sorry for the language, that's the title of the series!
 
 - - -
 
