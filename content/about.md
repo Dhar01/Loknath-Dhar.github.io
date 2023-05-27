@@ -25,7 +25,7 @@ Currently,
 
 - - -
 
-👨‍💻 **Daily stack/tools**: Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbix, Git, GitLab.
+💻‍ **Daily stack/tools**: Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbix, Git, GitLab.
 
 - - -
 
