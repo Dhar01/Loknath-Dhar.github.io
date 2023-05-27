@@ -19,13 +19,13 @@ And hey mate, nice to meet you! 🤝
 Currently,
 
 - 📘 reading *Head First Go*, having a good time with this!
-- also, following [learn go with tests](https://quii.gitbook.io/learn-go-with-tests/) ; as a new programmer, trying to develop Test Driven Development (TDD) mindset.
-- very exited for the upcoming COSMIC DE by system76! Love the working flow! 🙌
+- 🤖 also, following [learn go with tests](https://quii.gitbook.io/learn-go-with-tests/) ; as a new programmer, trying to develop Test Driven Development (TDD) mindset.
+- 🔜 very exited for the upcoming COSMIC DE by system76! Love the working flow! 🙌
 - 📺 watching [*Don't F\*ck with cats: Hunting an internet killer*](https://www.imdb.com/title/tt11318602/); sorry for the language, that's the title of the series!
 
 - - -
 
-<u>Daily stack/tools</u>: Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbix, Git, GitLab.
+👨‍💻 **Daily stack/tools**: Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbix, Git, GitLab.
 
 - - -
 
