@@ -43,7 +43,7 @@ Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbi
 - Programming Font: JetBrains Mono
 - Terminal Font: Iosevka Term Nerd
 
-# 📕 About Blog
+# 📕 Blog
 
 - Static website generator: [Hugo](https://gohugo.io/)
 - Theme of the website: [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod)
