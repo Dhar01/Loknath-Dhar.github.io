@@ -13,15 +13,15 @@ In the daytime, ~~I would love to see myself as a storyteller~~, but in reality,
 
 Fear not! I may not be a *go-to-help-for-windows-system* type of guy, but hey, I'm open for some DevOps, InfoSec, Golang moments! Everything will be much better if you're a Football fan, just drop me a line over [telegram](https://t.me/Dhar01), I'm about always available there!
 
-🙌 Mate, nice to meet you!
+Nice to meet you!
 
 - - -
 
 #### 🗃 At the moment
 
 - 📘 reading *Head First Go*, having a good time with this!
-- 🤖 also, following [learn go with tests](https://quii.gitbook.io/learn-go-with-tests/); trying to develop Test Driven Development (TDD) mindset from the beginning.
-- 🔜 very exited for the upcoming COSMIC DE by system76! Love the working flow! 🙌
+- 🤖 also, following [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/); trying to develop Test Driven Development (TDD) mindset from the beginning.
+- 🔜 very exited for the upcoming COSMIC DE by system76! Love the working flow!
 - 📺 watching [*Don't F\*ck with cats: Hunting an internet killer*](https://www.imdb.com/title/tt11318602/); sorry for the language, that's the title of the series!
 
 #### ⚒️‍ **Daily stack/tools**
