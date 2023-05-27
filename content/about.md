@@ -23,6 +23,8 @@ Currently,
 - very exited for the upcoming COSMIC DE by system76! 🙌 Love the working flow!
 - watching [*Don't F\*ck with cats: Hunting an internet killer*](https://www.imdb.com/title/tt11318602/), sorry for the language, that's the title of the series!
 
+<ins>Stack/Tools I'm using on daily basis</ins>: Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbix, git, gitlab.
+
 - - -
 
 # 🌻 Things I love
