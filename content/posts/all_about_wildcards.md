@@ -1,5 +1,5 @@
 ---
-title: "Let's learn: wildcards!"
+title: "Let's learn: Wildcards!"
 date: 2023-01-18T11:30:03+06:00
 showToc: true
 TocOpen: false
