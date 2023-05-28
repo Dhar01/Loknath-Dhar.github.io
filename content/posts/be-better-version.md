@@ -33,12 +33,15 @@ Enjoy the readings!
 # 📁 Golang
 
 - [Go by example](https://gobyexample.com/)
-- [Nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook)
+- [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/)
+
 
 # 📮 GitHub
 
 - [90 days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
+- [Nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook)
+
 
 # 📚 Others
 
