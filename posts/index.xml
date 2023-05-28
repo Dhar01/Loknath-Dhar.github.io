@@ -23,6 +23,29 @@ Here, I will share some resources, i.e., blogs I find amazing. Whether you&amp;r
     </item>
     
     <item>
+      <title>Nginx Logging</title>
+      <link>https://dhar01.github.io/posts/nginx_logging/</link>
+      <pubDate>Sat, 20 May 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/nginx_logging/</guid>
+      <description>Nginx uses a few different directives to control system logging. The one included in the core module is called error_log.
+error_log directive Syntax: error_log log_file log_level.
+log_file: specifies the file where the logs will be written. log_level: specifies the lowest level of logging to be recorded. Logging levels emerg: emergency situations. alert: crit: error: warn: notice: info debug: Example:
+error_log /var/log/nginx/error.log crit; # Don&amp;#39;t log anything error_log /dev/null crit; error_log is part of the core module; the access_log is part of the HttpLogModule.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s learn: logrotate!</title>
+      <link>https://dhar01.github.io/posts/all_about_logrotate/</link>
+      <pubDate>Wed, 10 May 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_logrotate/</guid>
+      <description>Logrotate is a system utility that manages the automatic rotation and compression of log files.
+logrotate --version man logrotate Configuration can be found generally in two places:
+/etc/logrotate.conf: contain some default settings, sets up rotation for a few logs that are not owned by any system packages. Also uses an include statement to pull in configuration from any file from the logrotate directory. /etc/logrotate.d: files for packages. By default, logrotate.confwill configure weekly log rotations, with log files owned by the root user and the syslog group.</description>
+    </item>
+    
+    <item>
       <title>Let&#39;s learn: journalctl!</title>
       <link>https://dhar01.github.io/posts/all-about-journalctl/</link>
       <pubDate>Sun, 30 Apr 2023 11:30:03 +0600</pubDate>
@@ -31,6 +54,15 @@ Here, I will share some resources, i.e., blogs I find amazing. Whether you&amp;r
       <description>jounralctl is the command line tool that let us interact with the journal logs. Default location of journald logs is /var/log/journal directory.
 Type journalctl in the terminal, it will show the journal logs in chronological order.
 journalctl --no-pager will display entire logs directly on the screen. journalctl -n 25: will display most recent 25 lines of the logs. journalctl -f: view logs in real time. jouralctl --utc: display logs in UTC time.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s learn: systemctl!</title>
+      <link>https://dhar01.github.io/posts/all_about_systemctl/</link>
+      <pubDate>Mon, 20 Mar 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_systemctl/</guid>
+      <description>Service management sudo systemctl start app.service sudo systemctl stop app.service sudo systemctl restart app.service sudo systemctl reload app.service sudo systemctl reload-or-restart app.service sudo systemctl enable app.service sudo systemctl disable app.service Checking status systemctl status app.service systemctl is-active app.service systemctl is-enabled app.service systemctl is-failed app.service System state overview # see a list of active units systemctl list-units systemctl # returns same as above systemctl list-units --all systemctl list-units --all --state=inactive systemctl list-units --type=service To see every available units in the system paths (including those that systemd has not attempted to load):</description>
     </item>
     
     <item>
@@ -130,6 +162,15 @@ Section Contents 1 user commands 2 programming interfaces for kernel system call
       
       <guid>https://dhar01.github.io/posts/set-up-solrcloud-for-production/</guid>
       <description>I wasn&amp;rsquo;t familiar with SolrCloud when I started working with this. When I started to learn it and working directly with it - I had done so many mistakes. Even setting up SolrCloud for production was a hassle for me (I&amp;rsquo;m a slow learner). But overtime, I got a hang of it and I think writing an up-to-date guide to set up SolrCloud on production server is a good idea.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s learn: Terminal Shortcuts!</title>
+      <link>https://dhar01.github.io/posts/all_about_linux_terminal/</link>
+      <pubDate>Sat, 23 Jul 2022 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_linux_terminal/</guid>
+      <description> To enter virtual consoles: Ctrl+Alt+F1 to Ctrl+Alt+F6 Switch from one to another console: Alt+F1 to Alt+F6 To return to the graphical desktop: Alt+F7 command meaning Ctrl+a beginning of the line Ctrl+c kill process/stop running Ctrl+d ending terminal session Ctrl+e end of line Ctrl+k cut from cursor to the end of line Ctrl+l clear screen Ctrl+u cut from cursor to the beginning of line Ctrl+w erase word from cursor to begin Ctrl+y get back from last cut text Ctrl+z froze the program/pause Alt+b backward one word Alt+d cut from cursor to end of word Alt+f forward one word Alt+backspace cut from cursor to beginning of the word Ctrl+shift+c copy from terminal Ctrl+shift+v paste on terminal </description>
     </item>
     
     <item>

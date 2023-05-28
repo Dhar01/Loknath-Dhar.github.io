@@ -11,11 +11,20 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Apr 2023 11:30:03 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 May 2023 11:30:03 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>nginx</title>
+      <link>https://dhar01.github.io/tags/nginx/</link>
+      <pubDate>Sat, 20 May 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/tags/nginx/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cheatsheet</title>
       <link>https://dhar01.github.io/tags/cheatsheet/</link>
-      <pubDate>Sun, 30 Apr 2023 11:30:03 +0600</pubDate>
+      <pubDate>Wed, 10 May 2023 11:30:03 +0600</pubDate>
       
       <guid>https://dhar01.github.io/tags/cheatsheet/</guid>
       <description></description>
@@ -24,7 +33,7 @@
     <item>
       <title>linux</title>
       <link>https://dhar01.github.io/tags/linux/</link>
-      <pubDate>Sun, 30 Apr 2023 11:30:03 +0600</pubDate>
+      <pubDate>Wed, 10 May 2023 11:30:03 +0600</pubDate>
       
       <guid>https://dhar01.github.io/tags/linux/</guid>
       <description></description>
@@ -33,7 +42,7 @@
     <item>
       <title>tools</title>
       <link>https://dhar01.github.io/tags/tools/</link>
-      <pubDate>Sun, 30 Apr 2023 11:30:03 +0600</pubDate>
+      <pubDate>Wed, 10 May 2023 11:30:03 +0600</pubDate>
       
       <guid>https://dhar01.github.io/tags/tools/</guid>
       <description></description>

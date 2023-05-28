@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>nginx on Loknath&#39;s Space</title>
+    <link>https://dhar01.github.io/tags/nginx/</link>
+    <description>Recent content in nginx on Loknath&#39;s Space</description>
+    <image>
+      <title>Loknath&#39;s Space</title>
+      <url>https://dhar01.github.io/images/cover.png</url>
+      <link>https://dhar01.github.io/images/cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 11:30:03 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/tags/nginx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nginx Logging</title>
+      <link>https://dhar01.github.io/posts/nginx_logging/</link>
+      <pubDate>Sat, 20 May 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/nginx_logging/</guid>
+      <description>Nginx uses a few different directives to control system logging. The one included in the core module is called error_log.
+error_log directive Syntax: error_log log_file log_level.
+log_file: specifies the file where the logs will be written. log_level: specifies the lowest level of logging to be recorded. Logging levels emerg: emergency situations. alert: crit: error: warn: notice: info debug: Example:
+error_log /var/log/nginx/error.log crit; # Don&amp;#39;t log anything error_log /dev/null crit; error_log is part of the core module; the access_log is part of the HttpLogModule.</description>
+    </item>
+    
+  </channel>
+</rss>
