@@ -11,7 +11,7 @@ I often consider myself **"Lucky"** to be born in this era; the era of being con
 
 Here, I will share some resources, i.e., blogs I find amazing. Whether you're a *DevOps practitioner, SRE, Linux System Administrator* or **belief in self-development** - these resources will significantly help you.
 
-> Do note that they're all according to my preference! And notably, not affiliated! By nature, I'm a reader, so most probably, you're not gonna see any video lessons or something like that. Sorry!
+> 👉‍ Do note that they're all according to my preference! And notably, not affiliated! By nature, I'm a reader, so most probably, you're not gonna see any video lessons or something like that. Sorry!
 
 Enjoy the readings!
 
@@ -40,7 +40,7 @@ Enjoy the readings!
 - [90 days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 
-# Others
+# 📁 Others
 
 > This section won't include any tech related website.
 
