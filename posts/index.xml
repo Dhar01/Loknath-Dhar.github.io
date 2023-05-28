@@ -23,6 +23,17 @@ Here, I will share some resources, i.e., blogs I find amazing. Whether you&amp;r
     </item>
     
     <item>
+      <title>Let&#39;s learn: journalctl!</title>
+      <link>https://dhar01.github.io/posts/all-about-journalctl/</link>
+      <pubDate>Sun, 30 Apr 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all-about-journalctl/</guid>
+      <description>jounralctl is the command line tool that let us interact with the journal logs. Default location of journald logs is /var/log/journal directory.
+Type journalctl in the terminal, it will show the journal logs in chronological order.
+journalctl --no-pager will display entire logs directly on the screen. journalctl -n 25: will display most recent 25 lines of the logs. journalctl -f: view logs in real time. jouralctl --utc: display logs in UTC time.</description>
+    </item>
+    
+    <item>
       <title>Common Vim/Neovim Settings</title>
       <link>https://dhar01.github.io/posts/common-vim-neovim-settings/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
