@@ -38,8 +38,8 @@ Generate certificate &amp;amp; key From the official documentation, you can gene
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dhar01.github.io/posts/custom-badges-github-profile/</guid>
-      <description>When I wanted to customize my GitHub profile, I visited many developers&amp;rsquo; GitHub profiles and used to see some badges which seems cool to me. When I looked at the code behind the profiles, I didn&amp;rsquo;t have the slightest idea what was going on. Later, I tried to copy some of the code and paste them into my code, but it couldn&amp;rsquo;t solve the need.
-Well, after some reading and searching, I was able to understand how to make them.</description>
+      <description>When I wanted to customize my GitHub profile, I visited many developers&amp;rsquo; GitHub profiles. I saw some badges which seemed cool to me. When I looked at the code behind the shapes, I didn&amp;rsquo;t know what was happening. Later, I tried to copy some of the code and paste them into my code, but it couldn&amp;rsquo;t solve the need.
+After some reading and searching, I understood how to make them. I am writing this post as a reference so that one can understand how to make those badges, including me.</description>
     </item>
     
     <item>

@@ -23,12 +23,13 @@ Here, I will share some resources, i.e., blogs I find amazing. Whether you&amp;r
     </item>
     
     <item>
-      <title>Most common Vim/Neovim Settings</title>
+      <title>Common Vim/Neovim Settings</title>
       <link>https://dhar01.github.io/posts/common-vim-neovim-settings/</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dhar01.github.io/posts/common-vim-neovim-settings/</guid>
-      <description>As I edit system configuration files day to day basis, my number one choice for text editor is vim. So here&amp;rsquo;s a post about some common settings:
+      <description>As I edit system configuration files daily on the cloud, my number one choice for a text editor is Vim. So here&amp;rsquo;s a post about some standard settings:
+Will work on NeoVim too!
 &amp;#34; Number-related settings set number &amp;#34; Display line numbers set relativenumber &amp;#34; Display relative line numbers set signcolumn=yes &amp;#34; Always show the sign column &amp;#34; Search-related settings set hlsearch &amp;#34; Highlight search results set incsearch &amp;#34; Highlight search matches as you type set ignorecase &amp;#34; Ignore case when searching set smartcase &amp;#34; Ignore case only if search pattern is all lowercase &amp;#34; Appearance-related settings set laststatus=2 &amp;#34; Always show status line set cursorline &amp;#34; Highlight current line &amp;#34; set colorcolumn=80 &amp;#34; Display a vertical line at column 80 to help with line length set noerrorbells &amp;#34; Disable error bells and visual bells set wrap &amp;#34; Wrap long lines visually set linebreak &amp;#34; Break long lines at word boundaries &amp;#34; Window-related settings set splitright &amp;#34; Split windows to the right set splitbelow &amp;#34; Split windows below set scrolloff=5 &amp;#34; Keep 5 lines above/below cursor when scrolling set clipboard+=unnamed &amp;#34; Copy text to system clipboard set mouse=a &amp;#34; Enable mouse support &amp;#34; Completion-related settings set wildmenu &amp;#34; Show command-line completion options in a menu set wildmode=list:longest,full &amp;#34; Highlight and complete the longest common part of the options &amp;#34; Mode-related settings set showmode &amp;#34; Show current mode (insert/visual/command) in status line &amp;#34; Folding-related settings set foldmethod=indent &amp;#34; Use indent-based folding set foldlevelstart=99 &amp;#34; Start with all folds open &amp;#34; Wrapping-related settings set whichwrap+=&amp;lt;,&amp;gt;,h &amp;#34; Allow wrapping past the beginning or end of a line &amp;#34; Create a horizontal split with Ctrl+s nnoremap &amp;lt;C-s&amp;gt; :split&amp;lt;CR&amp;gt; &amp;#34; Create a vertical split with Ctrl+v nnoremap &amp;lt;C-v&amp;gt; :vsplit&amp;lt;CR&amp;gt; &amp;#34; Create a new horizontal split and start editing a new file with Ctrl+n nnoremap &amp;lt;C-n&amp;gt; :split&amp;lt;CR&amp;gt;:enew&amp;lt;CR&amp;gt; &amp;#34; Create a new vertical split and start editing a new file with Ctrl+m nnoremap &amp;lt;C-m&amp;gt; :vsplit&amp;lt;CR&amp;gt;:enew&amp;lt;CR&amp;gt; Thanks!</description>
     </item>
     
@@ -72,8 +73,8 @@ Configure git # set your name $ git config user.name &amp;#34;user-name&amp;#34;
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dhar01.github.io/posts/custom-badges-github-profile/</guid>
-      <description>When I wanted to customize my GitHub profile, I visited many developers&amp;rsquo; GitHub profiles and used to see some badges which seems cool to me. When I looked at the code behind the profiles, I didn&amp;rsquo;t have the slightest idea what was going on. Later, I tried to copy some of the code and paste them into my code, but it couldn&amp;rsquo;t solve the need.
-Well, after some reading and searching, I was able to understand how to make them.</description>
+      <description>When I wanted to customize my GitHub profile, I visited many developers&amp;rsquo; GitHub profiles. I saw some badges which seemed cool to me. When I looked at the code behind the shapes, I didn&amp;rsquo;t know what was happening. Later, I tried to copy some of the code and paste them into my code, but it couldn&amp;rsquo;t solve the need.
+After some reading and searching, I understood how to make them. I am writing this post as a reference so that one can understand how to make those badges, including me.</description>
     </item>
     
     <item>
