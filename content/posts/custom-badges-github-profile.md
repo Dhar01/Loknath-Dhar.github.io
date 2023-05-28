@@ -5,9 +5,9 @@ tags: ["how to"]
 draft: false
 ---
 
-When I wanted to customize my GitHub profile, I visited many developers' GitHub profiles and used to see some badges which seems cool to me. When I looked at the code behind the profiles, I didn't have the slightest idea what was going on. Later, I tried to copy some of the code and paste them into my code, but it couldn't solve the need.
+When I wanted to customize my GitHub profile, I visited many developers' GitHub profiles. I saw some badges which seemed cool to me. When I looked at the code behind the shapes, I didn't know what was happening. Later, I tried to copy some of the code and paste them into my code, but it couldn't solve the need.
 
-Well, after some reading and searching, I was able to understand how to make them. Now I am writing this post as a reference so that one can understand how to make those badges including me.
+After some reading and searching, I understood how to make them. I am writing this post as a reference so that one can understand how to make those badges, including me.
 
 ## Step 01 : Finding icons/logo
 
@@ -37,7 +37,7 @@ https://img.shields.io/badge/-Amazon%20Prime
 
 ## Step 03 : The Color
 
-We need color for our badge background. The `shields.io` accepts named colors and hex codes. Some of the named colors are: *green, brightgreen, yellowgreen, yellow, orange, red, blue, lightgrey, grey/gray, success, important, critical, informational, inacticve, black, blueviolet*, etc.
+We need color for our badge background. The `shields.io` accepts named colors and hex codes. Some of the named colors are: *green, brightgreen, yellowgreen, yellow, orange, red, blue, lightgrey, grey/gray, success, important, critical, informational, inactive, black, blueviolet*, etc.
 
 For some more named colors and hex codes, see [here](https://htmlcolorcodes.com/color-names/).
 

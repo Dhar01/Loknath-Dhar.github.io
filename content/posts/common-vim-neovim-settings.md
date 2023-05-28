@@ -1,10 +1,15 @@
 ---
-title: "Most common Vim/Neovim Settings"
+title: "Common Vim/Neovim Settings"
 date: 2023-03-15
+showToc: true
+TocOpen: false
+draft: false
 draft: false
 ---
 
-As I edit system configuration files day to day basis, my number one choice for text editor is vim. So here's a post about some common settings:
+As I edit system configuration files daily on the cloud, my number one choice for a text editor is Vim. So here's a post about some standard settings:
+
+> Will work on NeoVim too!
 
 ```vim
 " Number-related settings
