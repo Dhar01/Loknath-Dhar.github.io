@@ -1,5 +1,5 @@
 ---
-title: "Be better "
+title: "📊 Be better.."
 date: 2023-05-28T01:30:03+00:00
 showToc: true
 TocOpen: false
@@ -16,8 +16,10 @@ Enjoy the readings!
 
 - [Architecture notes](https://architecturenotes.co/)
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
+- [System Design](https://systemdesign.one/): Mostly interview specific.
 
 # Linux Specific
 
+-
 
 # Others
