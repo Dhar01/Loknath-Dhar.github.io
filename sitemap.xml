@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dhar01.github.io/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
+    <loc>https://dhar01.github.io/posts/be-better-version/</loc>
+    <lastmod>2023-05-28T01:30:03+00:00</lastmod>
   </url><url>
-    <loc>https://dhar01.github.io/posts/common-vim-neovim-settings/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
+    <loc>https://dhar01.github.io/</loc>
+    <lastmod>2023-05-28T01:30:03+00:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/posts/</loc>
+    <lastmod>2023-05-28T01:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://dhar01.github.io/posts/common-vim-neovim-settings/</loc>
     <lastmod>2023-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/tags/how-to/</loc>

@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 01:30:03 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Be better </title>
+      <link>https://dhar01.github.io/posts/be-better-version/</link>
+      <pubDate>Sun, 28 May 2023 01:30:03 +0000</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/be-better-version/</guid>
+      <description>I often consider myself &amp;ldquo;Lucky&amp;rdquo; to be born in this era; the era of being connected, knowledge sharing and collaboration. While scrolling through the internet, I found so many well-written thoughts and blogs that should be shared. In my daily life, I&amp;rsquo;m trying to be a DevOps practitioner, to be a gopher and sharpen my knowledge of the basics.
+Here, I will share some resources, i.e., blogs I find amazing. Whether you&amp;rsquo;re a DevOps practitioner, SRE, Linux System Administrator or believe in self-development - these resources will significantly help you.</description>
+    </item>
+    
     <item>
       <title>Most common Vim/Neovim Settings</title>
       <link>https://dhar01.github.io/posts/common-vim-neovim-settings/</link>
