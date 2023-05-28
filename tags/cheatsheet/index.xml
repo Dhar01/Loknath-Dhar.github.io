@@ -24,6 +24,37 @@ journalctl --no-pager will display entire logs directly on the screen. journalct
     </item>
     
     <item>
+      <title>Let&#39;s learn: wildcards!</title>
+      <link>https://dhar01.github.io/posts/all_about_vim/</link>
+      <pubDate>Wed, 08 Feb 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_vim/</guid>
+      <description>Syntax: vim filename.
+Movement Navigating h /j/k/l :
+C-U/C-D : half-page up/down.
+C-B/C-F : page up/down.
+H : move to top of the screen.
+M : move to middle of the screen.
+L : move to bottom of the screen.
+Words b/w : previous/next word.
+ge/e : previous/next end of word.
+gj : move cursor down (multi-line text).
+gk : move cursor up (multi-line text).
+Line $ : to the end of the line (including last character).</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s learn: wildcards!</title>
+      <link>https://dhar01.github.io/posts/all_about_wildcards/</link>
+      <pubDate>Wed, 18 Jan 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_wildcards/</guid>
+      <description>Wildcards (also known as globbing) allows us to select filenames based on patterns of characters.
+Wildcard Meaning * matches any character ? matches any single character [characters] matches any character that is a member of the set characters [!characters] matches any character that is not a member of the set characters [[:class:]] matches any character that is a member of the specified class Commonly used character classes:
+Character class meaning [:alnum:] matches any alphanumeric character [:alpha:] matches any alphabetic character [:digit:] matches any numeral [:lower:] matches any lowercase letter [:upper:] matches any UPPERCASE letter Examples [[:upper:]]* : Any file beginning with an uppercase letter.</description>
+    </item>
+    
+    <item>
       <title>Let&#39;s learn: grep!</title>
       <link>https://dhar01.github.io/posts/all-about-grep/</link>
       <pubDate>Tue, 13 Dec 2022 11:30:03 +0600</pubDate>
@@ -33,6 +64,31 @@ journalctl --no-pager will display entire logs directly on the screen. journalct
 grep is a powerful program used to find text patterns within files. It uses regular expressions (shortly regex) to match the pattern.
 When grep encounters a pattern in the file, it prints out the lines containing it. If no file is given, it will search recursively search the given pattern in the files in current directory.
 grep pattern [file...] grep &amp;lt;search-pattern&amp;gt; file.txt To show the line number in the output, use -n option: grep -n &amp;lt;search-pattern&amp;gt; file.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s learn: less!</title>
+      <link>https://dhar01.github.io/posts/all_about_less/</link>
+      <pubDate>Sun, 13 Nov 2022 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_less/</guid>
+      <description>The less command is a program to view text files.
+Example:
+less filename less /etc/passwd Some action commands for less:
+Command Action Page Up or b Scroll back one page Page Down or space Scroll forward one page Up Arrow Scroll up one line Down Arrow Scroll down one line G Move to the end of the text file g or 1G Move to the beginning of the text file /characters search forward to the next occurrence of characters n search for the next occurrence of the previous search h display help screen q quit less less is more</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s learn: man pages!</title>
+      <link>https://dhar01.github.io/posts/all_about_man-pages/</link>
+      <pubDate>Thu, 13 Oct 2022 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all_about_man-pages/</guid>
+      <description>man - display a program&amp;rsquo;s manual page.
+man program # program is the name of the command On most Linux systems, man uses less to display manual page.
+The manual that man displays is broken into sections and covers not only user commands but also system administration commands, programming interfaces, file formats and more.
+Man page organization:
+Section Contents 1 user commands 2 programming interfaces for kernel system calls 3 programming interfaces to the C library 4 special files such as device nodes and drivers 5 file formats 6 games and amusements such as screen savers 7 Miscellaneous 8 System administration commands 9 Obscure kernel specs and interfaces man section search_item man 5 passwd Refer to a specific section of the manual to find what we are looking for.</description>
     </item>
     
     <item>
