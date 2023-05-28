@@ -24,7 +24,7 @@ journalctl --no-pager will display entire logs directly on the screen. journalct
     </item>
     
     <item>
-      <title>Let&#39;s learn: wildcards!</title>
+      <title>Let&#39;s learn: Vim/NeoVim!</title>
       <link>https://dhar01.github.io/posts/all_about_vim/</link>
       <pubDate>Wed, 08 Feb 2023 11:30:03 +0600</pubDate>
       
