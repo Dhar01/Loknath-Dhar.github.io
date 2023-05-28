@@ -56,6 +56,18 @@ Generate certificate &amp;amp; key From the official documentation, you can gene
     </item>
     
     <item>
+      <title>Let&#39;s learn: grep!</title>
+      <link>https://dhar01.github.io/posts/all-about-grep/</link>
+      <pubDate>Tue, 13 Dec 2022 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/all-about-grep/</guid>
+      <description>grep: Global Regular Expression print.
+grep is a powerful program used to find text patterns within files. It uses regular expressions (shortly regex) to match the pattern.
+When grep encounters a pattern in the file, it prints out the lines containing it. If no file is given, it will search recursively search the given pattern in the files in current directory.
+grep pattern [file...] grep &amp;lt;search-pattern&amp;gt; file.txt To show the line number in the output, use -n option: grep -n &amp;lt;search-pattern&amp;gt; file.</description>
+    </item>
+    
+    <item>
       <title>Setting Up SolrCloud for Production</title>
       <link>https://dhar01.github.io/posts/set-up-solrcloud-for-production/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
