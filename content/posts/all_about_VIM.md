@@ -1,5 +1,5 @@
 ---
-title: "Let's learn: wildcards!"
+title: "Let's learn: Vim/NeoVim!"
 date: 2023-02-08T11:30:03+06:00
 showToc: true
 TocOpen: false
