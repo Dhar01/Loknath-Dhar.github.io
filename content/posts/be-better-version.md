@@ -11,11 +11,11 @@ I often consider myself **"Lucky"** to be born in this era; the era of being con
 
 Here, I will share some resources, i.e., blogs I find amazing. Whether you're a *DevOps practitioner, SRE, Linux System Administrator* or **belief in self-development** - these resources will significantly help you.
 
-> 👉‍ Do note that they're all according to my preference! And notably, not affiliated! By nature, I'm a reader, so most probably, you're not gonna see any video lessons or something like that. Sorry!
+> ‍Do note that they're all according to my preference! And notably, not affiliated! By nature, I'm a reader, so most probably, you're not gonna see any video lessons or something like that. Sorry!
 
 Enjoy the readings!
 
-# Misc
+# ♾️ Misc
 
 - [Architecture notes](https://architecturenotes.co/)
 - [School of SRE](https://linkedin.github.io/school-of-sre/)
@@ -23,24 +23,24 @@ Enjoy the readings!
 - [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html)
 - [Ops School Curriculum](https://www.opsschool.org/)
 
-# Linux Specific
+# 📋 Linux Specific
 
 - [It's FOSS](https://itsfoss.com/): *how can I not include this!*
 - [Linux Journey](https://linuxjourney.com/): Beginner at Linux? Just click here.
 - [Learn Ubuntu](https://learnubuntu.com/)
 - [Linux Survival](https://linuxsurvival.com/): Wanna practice some Linux?
 
-# Golang
+# 📁 Golang
 
 - [Go by example](https://gobyexample.com/)
 - [Nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook)
 
-# GitHub!
+# 📮 GitHub
 
 - [90 days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
 - [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
 
-# 📁 Others
+# 📚 Others
 
 > This section won't include any tech related website.
 
