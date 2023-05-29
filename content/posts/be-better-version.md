@@ -17,11 +17,18 @@ Enjoy the readings!
 
 # ♾️ DevOps/SRE misc
 
+#### blogs
+
 - [Architecture notes](https://architecturenotes.co/)
-- [School of SRE](https://linkedin.github.io/school-of-sre/)
+- [ByteByteGo](https://blog.bytebytego.com/)
 - [System Design](https://systemdesign.one/): mostly interview specific.
+
+#### resources
+
 - [DevOps Bootcamp](http://devopsbootcamp.osuosl.org/start-here.html)
 - [Ops School Curriculum](https://www.opsschool.org/)
+- [School of SRE](https://linkedin.github.io/school-of-sre/)
+-
 
 # 📋 Linux
 
@@ -35,16 +42,14 @@ Enjoy the readings!
 - [Go by example](https://gobyexample.com/)
 - [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/)
 
-
 # 📮 GitHub
 
 - [90 days of DevOps](https://github.com/MichaelCade/90DaysOfDevOps)
-- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises)
-- [Nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook)
-
+- [DevOps Exercises](https://github.com/bregman-arie/devops-exercises) - [Nginx Admin Handbook](https://github.com/trimstray/nginx-admins-handbook)
 
 # 📚 Others
 
 > this section won't include any tech related website.
 
 - [Muradul Islam](https://muradulislam.me/): If you're a bengali reader, highly recommended!
+- [Aeon Magazine](https://aeon.co/)
