@@ -1,6 +1,8 @@
 ---
 title: "Learning Git"
 date: 2022-05-31
+showToc: true
+TocOpen: false
 tags: ["cheatsheet", "resources"]
 draft: false
 ---
