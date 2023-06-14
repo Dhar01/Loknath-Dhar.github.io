@@ -11,7 +11,17 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dhar01.github.io/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jun 2023 11:30:03 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golang Resources</title>
+      <link>https://dhar01.github.io/posts/golang_resources/</link>
+      <pubDate>Tue, 13 Jun 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/posts/golang_resources/</guid>
+      <description> I will add more resources. Please return to find something new!
+Study Resource golangr Golang Cheat Sheet Codecademy - go Books Head First Go (got my introduction with this) Exercises golangr exercises exercism-go gophercises </description>
+    </item>
+    
     <item>
       <title>Learning Git</title>
       <link>https://dhar01.github.io/posts/all_about_git/</link>

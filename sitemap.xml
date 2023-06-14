@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dhar01.github.io/posts/be-better-version/</loc>
-    <lastmod>2023-05-28T01:30:03+00:00</lastmod>
+    <loc>https://dhar01.github.io/posts/golang_resources/</loc>
+    <lastmod>2023-06-13T11:30:03+06:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/</loc>
-    <lastmod>2023-05-28T01:30:03+00:00</lastmod>
+    <lastmod>2023-06-13T11:30:03+06:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/posts/</loc>
+    <lastmod>2023-06-13T11:30:03+06:00</lastmod>
+  </url><url>
+    <loc>https://dhar01.github.io/tags/resources/</loc>
+    <lastmod>2023-06-13T11:30:03+06:00</lastmod>
+  </url><url>
+    <loc>https://dhar01.github.io/tags/</loc>
+    <lastmod>2023-06-13T11:30:03+06:00</lastmod>
+  </url><url>
+    <loc>https://dhar01.github.io/posts/be-better-version/</loc>
     <lastmod>2023-05-28T01:30:03+00:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/tags/nginx/</loc>
     <lastmod>2023-05-20T11:30:03+06:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/posts/nginx_logging/</loc>
-    <lastmod>2023-05-20T11:30:03+06:00</lastmod>
-  </url><url>
-    <loc>https://dhar01.github.io/tags/</loc>
     <lastmod>2023-05-20T11:30:03+06:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/tags/cheatsheet/</loc>
@@ -69,9 +75,6 @@
     <lastmod>2022-07-23T11:30:03+06:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/posts/all_about_git/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dhar01.github.io/tags/resources/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dhar01.github.io/posts/custom-badges-github-profile/</loc>

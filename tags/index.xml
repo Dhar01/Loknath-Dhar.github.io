@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 May 2023 11:30:03 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jun 2023 11:30:03 +0600</lastBuildDate><atom:link href="https://dhar01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>resources</title>
+      <link>https://dhar01.github.io/tags/resources/</link>
+      <pubDate>Tue, 13 Jun 2023 11:30:03 +0600</pubDate>
+      
+      <guid>https://dhar01.github.io/tags/resources/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>nginx</title>
       <link>https://dhar01.github.io/tags/nginx/</link>
@@ -54,15 +63,6 @@
       <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
       
       <guid>https://dhar01.github.io/tags/how-to/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>resources</title>
-      <link>https://dhar01.github.io/tags/resources/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://dhar01.github.io/tags/resources/</guid>
       <description></description>
     </item>
     
