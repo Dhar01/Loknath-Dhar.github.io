@@ -13,6 +13,7 @@ tags: ["resources"]
 
 - [golangr](https://golangr.com/)
 - [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet)
+- [Codecademy - go](https://www.codecademy.com/catalog/language/go)
 
 # Books
 
@@ -20,6 +21,6 @@ tags: ["resources"]
 
 # Exercises
 
-- [golangr](https://golangr.com/exercises)
+- [golangr exercises](https://golangr.com/exercises)
 - [exercism-go](https://exercism.org/tracks/go)
 - [gophercises](https://gophercises.com/)
