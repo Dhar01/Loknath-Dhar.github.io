@@ -19,7 +19,7 @@ tags: ["resources"]
 
 - Head First Go (*got my introduction with this*)
 
-> Thoughts on Head-first Go: This book was published before Generics was introduced in Go, so there's no introduction to Generics. The author discussed unbuffered channels but gave a short introduction to buffered channels.
+> *Thoughts on Head-first Go*: This book was published before Generics was introduced in Go, so there's no introduction to Generics. The author discussed unbuffered channels but gave a short introduction to buffered channels.
 
 # Exercises
 

@@ -7,9 +7,9 @@ draft: false
 ---
 # 👋 Hey there
 
-I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a programmer with Golang, also an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving for the smell and sounds of rain, and most of the time, haha, for off days.
+I’m **Loknath**, a Linux enthusiast who bleeds Liverpool RED on matchday! Trying to be a programmer with Golang, also an infrequent writer. I enjoy cinema, and anime, can’t live without songs, and buy more books than I read. I feel like dancing on the occasion of playing Fifa, sometimes craving for the smell and sounds of rain, and most of the time, my favorite keyboard.
 
-In the daytime, ~~I would love to see myself as a storyteller~~, but in reality, I pass my days as Jr. DevOps Engineer and wonder when I will build a good project (*I am pretty bad at programming but trying my best*). One special thing about me if you ask, I don't know much about operating a Windows system. Always had a Linux heart beating inside me!
+In the daytime, ~~I would love to see myself as a storyteller~~, but in reality, I am passing my days working on my skills to build a career as Jr. DevOps Engineer. One special thing about me if you ask, I don't know much about operating a Windows system. Always had a Linux heart beating inside me!
 
 Fear not! I may not be a *go-to-help-for-windows-system* type of guy, but hey, I'm open for some DevOps, InfoSec, Golang moments! Everything will be much better if you're a Football fan, just drop me a line over [telegram](https://t.me/Dhar01), I'm about always available there!
 
@@ -19,13 +19,13 @@ Nice to meet you!
 
 #### 🗃 At the moment
 
-- 📘 following [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/); trying to develop Test Driven Development (TDD) mindset from the beginning.
+- 📘 following [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/), along with some tutorials; trying to develop Test Driven Development (TDD) mindset from the beginning.
 - 🔜 very exited for the upcoming COSMIC DE by system76! Love the working flow!
 - 📺 watching [Don't F\*ck with cats: Hunting an internet killer](https://www.imdb.com/title/tt11318602/); sorry for the language, that's the title of the series!
 
 #### ⚒️‍ Daily stack/tools
 
-Linux (*ubuntu server*), Apache SolrCloud, Nginx, Amazon Cloudfront, Bash, Zabbix, Git, GitLab.
+Linux (*ubuntu server*), Nginx, Amazon Cloudfront, Bash, Zabbix, Git, GitLab.
 
 - - -
 
