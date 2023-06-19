@@ -19,7 +19,8 @@
       
       <guid>https://dhar01.github.io/posts/golang_resources/</guid>
       <description> I will add more resources. Please return to find something new!
-Study Resource golangr Golang Cheat Sheet Codecademy - go Books Head First Go (got my introduction with this) Exercises golangr exercises exercism-go gophercises </description>
+Study Resource golangr Golang Cheat Sheet Codecademy - go Books Head First Go (got my introduction with this) Thoughts on Head-first Go: This book was published before Generics was introduced in Go, so there&amp;rsquo;s no introduction to Generics. The author discussed unbuffered channels but gave a short introduction to buffered channels.
+Exercises golangr exercises exercism-go gophercises </description>
     </item>
     
     <item>
